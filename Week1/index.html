@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+	
+    <title>Week 1 Lab</title>
+	<meta charset="utf-8" />
+
+	<!-- style sheets -->
+	<link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+
+	<div class="header">
+		Cynthia's Map
+	</div>
+	<div class="sidebar">
+		<h3>Locations Featured</h3>
+        <h5>Freshman Dorm</h5>
+        <h5>Ackerman Union</h5>
+	</div>
+	<div class="content">
+		<div id="map"></div>
+	</div>
+
+    <script>
+        var map = L.map('map').setView([34.070976732999824, -118.44674603093515], 15);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        var marker1 = L.marker([34.07378115583708, -118.44962630414913]).addTo(map)
+        .bindPopup('Sunset Village Courtside House C8')
+        .openPopup();
+        
+        var marker2 = L.marker([34.07076344066207, -118.44431594954176]).addTo(map)
+        .bindPopup('Ackerman Student Union')
+        .openPopup();
+
+        var circle = L.circle([34.070976732999824, -118.44674603093515], {
+            color: 'red',
+            fillColor: '#f03',
+            fillOpacity: 0.3,
+            radius: 500
+        }).addTo(map);
+        
+    </script>
+
+</body>
+</html>
