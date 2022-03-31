@@ -23,19 +23,19 @@ body {
     background-color: #5e7c6f;
     color: white;
     font-size: 48px;
-    font-family: "Poppins";
+    font-family: "Poppins", sans-serif;
     font-weight: bold;
 }
 .sidebar {
 	grid-area: sidebar;
 	padding:10px;
     color: white;
-    font-family: "Poppins";
+    font-family: "Poppins", sans-serif;
     background-color: #709283;
 }
 .content {
 	grid-area: content;
     padding:10px;
     color: black;
-    font-family: "Poppins";
+    font-family: "Poppins", sans-serif;
 }
