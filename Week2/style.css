@@ -1,0 +1,43 @@
+body,html {
+	margin:0;
+	height:100%;
+	width:100%;
+}
+
+#map {
+	height: 100%;
+}
+
+body {
+    display: grid;
+	grid-template-rows: 100px 1fr;
+	grid-template-columns: 300px 1fr;
+	grid-template-areas: 
+	"header header"
+	"sidebar content";
+}
+
+.header {
+	grid-area: header;
+	padding:10px;
+    background-color: #02361f;
+    color: white;
+    font-size: 48px;
+    font-family: "Poppins";
+    font-weight: bold;
+}
+.sidebar {
+	grid-area: sidebar;
+	padding:10px;
+    color: white;
+    font-family: "Poppins";
+    background-color: rgb(148, 163, 135);
+}
+.content {
+	grid-area: content;
+}
+
+.pic {
+	max-height: 20px;
+	max-width: auto;
+}
