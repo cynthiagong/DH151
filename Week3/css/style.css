@@ -65,9 +65,23 @@ body {
 	background: #b3c7be;
 }
 
+a:link {
+	color: white;
+	text-decoration: none;
+}
+a:visited {
+	color: white;
+	text-decoration: none;
+}
+a:hover {
+	color: white;
+	text-decoration: none;
+}
+
 #stage {
 	padding: 20px 0;
-    margin: auto;
+	margin-left: auto;
+	margin-right: auto;
     height: 200px;
   }
 
@@ -76,8 +90,7 @@ body {
 	margin: auto;
   }
   #stage a img {
-	margin-left: auto;
-	margin-right: auto;
+	  position: absolute;
   }
 
   #stage a:nth-of-type(1) {
