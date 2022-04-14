@@ -1,0 +1,99 @@
+body,html {
+	margin:0;
+	height:100%;
+	width:100%;
+}
+
+#map {
+	height: 100%;
+}
+
+body {
+	display: grid;
+	grid-template-rows: 100px 1fr;
+	grid-template-columns: 75% 25%; /* change to 50/50 split */
+	grid-template-areas: 
+	"header header"
+	"content sidebar"; /* swapped places */
+}
+
+.header {
+	grid-area: header;
+	padding:10px;
+    background-color: #02361f;
+    color: white;
+    font-size: 48px;
+    font-family: "Poppins";
+    font-weight: bolder;
+}
+.sidebar {
+	grid-area: sidebar;
+	padding:10px;
+    color: white;
+    font-family: "Poppins";
+	text-align: center;
+    background-color: rgb(148, 163, 135);
+}
+.content {
+	grid-area: content;
+}
+
+.pic {
+	max-height: 20px;
+	max-width: auto;
+}
+
+.sidebar-item{
+	padding: 10px;
+	background: #02361f;
+	color: white;
+	margin: 5px;
+	cursor: pointer;
+}
+
+.sidebar-item:link {
+	color: white;
+	background: #b3c7be;
+	text-decoration: none;
+}
+.sidebar-item:visited {
+	color: white;
+	background: #b3c7be;
+	text-decoration: none;
+}
+.sidebar-item:hover {
+	background: #b3c7be;
+}
+
+#stage {
+	padding: 20px 0;
+    margin: auto;
+    height: 200px;
+  }
+
+  #stage a {
+	position: absolute;
+	margin: auto;
+  }
+  #stage a img {
+	margin-left: auto;
+	margin-right: auto;
+  }
+
+  #stage a:nth-of-type(1) {
+    animation-name: fader;
+    animation-delay: 4s;
+    animation-duration: 1s;
+    z-index: 20;
+  }
+  #stage a:nth-of-type(2) {
+    z-index: 10;
+  }
+  #stage a:nth-of-type(n+3) {
+    display: none;
+  }
+
+  @keyframes fader {
+    from { opacity: 1.0; }
+    to   { opacity: 0.0; }
+  }
