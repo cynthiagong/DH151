@@ -1,12 +1,942 @@
-latitude,longitude
-34.151382,-118.005803
-34.049975,-118.250957
-34.032992,-118.314461
-34.14593,-118.138234
-34.180597,-118.183488
-34.09967,-117.712605
-34.09967,-117.712605
-,
-,
-,
-,
+State,City,Store,Price,Rating,Review Count,Location,Full Address,latitude,longitude
+New York,New York City,Boba Guys,$,4.5,670,23 Clinton St,23 Clinton St New York City ,40.7206127,-73.9845193
+New York,New York City,Tea and Milk,$,4.5,410,32-02 34th Ave,32-02 34th Ave New York City ,40.7590794,-73.9262574
+New York,New York City,Hanco's,$,4,688,134 Smith St,134 Smith St New York City ,40.6872287,-73.9903636
+New York,New York City,Juice Vitality,$,5,181,192 1st Ave,192 1st Ave New York City ,40.7296859,-73.9834768
+New York,New York City,Teado Tea Shop,$,4.5,355,145D Hester St,145D Hester St New York City ,40.7172529,-73.9950257
+New York,New York City,Yaya Tea Garden,$,4,489,51 Chrystie St,51 Chrystie St New York City ,40.7163583,-73.9950865
+New York,New York City,Vivi Bubble Tea,$,4,640,49 Bayard St,49 Bayard St New York City ,40.7151669,-73.997488
+New York,New York City,Ten Ren's Tea Time,$,4,643,73 Mott St,73 Mott St New York City ,40.7163758,-73.9982038
+New York,New York City,Tiger Sugar,$,4,345,197 Canal St,197 Canal St New York City ,40.7171318,-73.9982178
+New York,New York City,Sashimi Ramen Express,$,4.5,313,341 E 78th St,341 E 78th St New York City ,40.7722294,-73.9540545
+New York,New York City,Kung Fu Tea,$,4,388,73 Chrystie St,73 Chrystie St New York City ,40.7171001,-73.9945616
+New York,New York City,Kung Fu Tea,$,4.5,244,28 St Marks Pl,28 St Marks Pl New York City ,40.7288288,-73.9885836
+New York,New York City,Cream Coffee & Tea Shop,$$,4.5,178,7210 B 3rd Ave,7210 B 3rd Ave New York City ,40.7286787,-73.9907046
+New York,New York City,PaTea,$,4,230,227 E 14th St,227 E 14th St New York City ,40.7330263,-73.9859184
+New York,New York City,Hanco's,$,4,523,350 7th Ave,350 7th Ave New York City ,40.7482132,-73.9929658
+New York,New York City,Banh Mi Place,$,4,255,824B Washington Ave,824B Washington Ave New York City ,40.6732812,-73.9631445
+New York,New York City,CoCo Fresh Tea & Juice,$,4,418,129 E 45th St,129 E 45th St New York City ,40.7533859,-73.9742848
+New York,New York City,Yaya Tea Garden,$,4,263,206 Grand St,206 Grand St New York City ,40.7191263,-73.9963099
+New York,New York City,Bread & Joe,$,4.5,97,618 4th Ave,618 4th Ave New York City ,40.664853,-73.993832
+New York,New York City,Hawa Smoothies & Bubble Tea,$,4.5,114,422 E 14th St,422 E 14th St New York City ,40.7306377,-73.9816026
+New York,New York City,Gong Cha,$,4,416,75 W 38th St,75 W 38th St New York City ,40.7523195,-73.9856369
+New York,New York City,Banhmigos,$,4,281,178 Lincoln Pl,178 Lincoln Pl New York City ,40.6755182,-73.9743366
+New York,New York City,Debutea,$,4,190,217 Thompson St,217 Thompson St New York City ,40.729175,-73.9993244
+New York,New York City,Taiwan Bear House,$$,4,302,11 Pell St,11 Pell St New York City ,40.7147104,-73.9978094
+New York,New York City,Kung Fu Tea,$,4.5,204,31 Waverly Pl,31 Waverly Pl New York City ,40.7306862,-73.9952857
+New York,New York City,Bubbly Tea,$,4,289,55 Bayard St,55 Bayard St New York City ,40.7151477,-73.9979087
+New York,New York City,Mee Cafe,$,4.5,84,26 Rutgers St,26 Rutgers St New York City ,40.7130669,-73.9902285
+New York,New York City,Vivi Bubble Tea,$,4,274,205 Allen St,205 Allen St New York City ,40.7227487,-73.9890753
+New York,New York City,Sashimi Express II,$,4.5,91,223 E 74th St,223 E 74th St New York City ,40.7707353,-73.9584651
+New York,New York City,The Teapsy New York,$$,4.5,159,33-17 30th Ave,33-17 30th Ave New York City ,40.766051,-73.918986
+New York,New York City,Juicy Cube,$$,4,212,674 Lexington Ave,674 Lexington Ave New York City ,40.760182,-73.969887
+New York,New York City,MomenTea,$$,4,151,64 7th Ave,64 7th Ave New York City ,40.7388673,-73.9997225
+New York,New York City,INFINITEA NY,$,4.5,114,2309 Astoria Blvd,2309 Astoria Blvd New York City ,40.7717804,-73.9238347
+New York,New York City,Lotus Vietnamese Sandwiches,$,4,246,229 5th Ave,229 5th Ave New York City ,40.7438847,-73.9875231
+New York,New York City,Mi Tea,$,4.5,63,101 MacDougal St,101 MacDougal St New York City ,40.7296731,-74.0009312
+New York,New York City,Ajisen Ramen,$$,3.5,420,136 W 28th St,136 W 28th St New York City ,40.7466253,-73.992214
+New York,New York City,Surreal Creamery,,4.5,106,538 2nd Ave,538 2nd Ave New York City ,40.7420059,-73.9775525
+New York,New York City,Minus Celsius Ice Cream,$,4,150,302 Grand St,302 Grand St New York City ,40.7176793,-73.9915836
+New York,New York City,I Milky 沐白,$,4.5,103,992 6th Ave,992 6th Ave New York City ,40.7514345,-73.9862274
+New York,New York City,Shiny Tea,$,4.5,122,2667 Broadway,2667 Broadway New York City ,40.7983067,-73.9694954
+New York,New York City,ViVi Bubble Tea,$,3.5,289,607 9th Ave,607 9th Ave New York City ,40.759368,-73.99235
+New York,New York City,Meet Fresh,$$,3.5,482,37 Cooper Sq,37 Cooper Sq New York City ,40.7280848,-73.990648
+New York,New York City,Hawa Smoothies & Bubble Tea,$,4.5,76,44 Willoughby St,44 Willoughby St New York City ,40.6920952,-73.9870662
+New York,New York City,Cheesecake Diva,$$,4.5,82,7309 3rd Ave,7309 3rd Ave New York City ,40.761263,-73.9668152
+New York,New York City,Hanco's,$,3.5,301,147 Montague St,147 Montague St New York City ,40.6947874,-73.9933981
+New York,New York City,Cool Fresh Juice Bar,$,4.5,101,2661 A Broadway,2661 A Broadway New York City ,40.7981289,-73.9696649
+New York,New York City,Kung Fu Tea,$,3.5,313,234 Canal St,234 Canal St New York City ,40.717725,-73.9998831
+New York,New York City,Initial Tea,$,5,47,467 Dekalb Ave,467 Dekalb Ave New York City ,40.6907007,-73.9584584
+New York,New York City,Kung Fu Tea,$,4,110,40 Hoyt St,40 Hoyt St New York City ,40.6894508,-73.9859812
+New York,New York City,CoCo Fresh Tea & Juice,$,3.5,247,38 Lexington Ave,38 Lexington Ave New York City ,40.7401626,-73.9845333
+New York,New York City,Teazzi Tea Shop,,4,114,47 W 14th St,47 W 14th St New York City ,40.7372546,-73.9957205
+New York,New York City,Squarrel Cafe,$,4.5,49,572 Atlantic Ave,572 Atlantic Ave New York City ,40.6844229,-73.9789175
+New York,New York City,Tiger Sugar,$,4,159,5903 8th Ave,5903 8th Ave New York City ,40.6358199,-74.0089276
+New York,New York City,Savory Thai,$$,4.5,51,378 Metropolitan Ave,378 Metropolitan Ave New York City ,40.713889,-73.9556312
+New York,New York City,La Mian Lounge,,4.5,65,25-12 Broadway,25-12 Broadway New York City ,40.79299,-73.972381
+New York,New York City,Yaya Tea Garden,$,4,198,2320 86th St,2320 86th St New York City ,40.6000702,-73.9912327
+New York,New York City,Arnor Crepes & Bubble Tea,$,4,129,1425 W 10th St,1425 W 10th St New York City ,40.7342687,-74.0029559
+New York,New York City,Mr. Wish,$,4.5,66,86 5th Ave,86 5th Ave New York City ,40.7362039,-73.9938305
+New York,New York City,Sip N' Play,,5,34,471 5th Ave,471 5th Ave New York City ,40.7524112,-73.9811846
+New York,New York City,BAMBU,,4.5,45,124B Hester St,124B Hester St New York City ,40.716977,-73.9947397
+New York,New York City,Culture Tea Bar,$,4,109,3111 Broadway,3111 Broadway New York City ,40.8129171,-73.9607338
+New York,New York City,The Alley,$,3.5,145,68 Cooper Sq,68 Cooper Sq New York City ,40.7292951,-73.990935
+New York,New York City,Teadora,$,4.5,74,6609 Fort Hamilton Pkwy,6609 Fort Hamilton Pkwy New York City ,40.62974,-74.009958
+New York,New York City,Ten Ren Tea,$,3.5,165,75 Mott St,75 Mott St New York City ,40.7164064,-73.9982153
+New York,New York City,ViVi Bubble Tea,$,3.5,144,226 E 14th St,226 E 14th St New York City ,40.7326152,-73.9862061
+New York,New York City,Silk Road Cafe,$,3.5,162,30 Mott St,30 Mott St New York City ,40.7147325,-73.9985633
+New York,New York City,BIAO Sugar,$,4,151,1271 Broadway,1271 Broadway New York City ,40.748214,-73.988376
+New York,New York City,Chun Yang Tea Chinatown,,4.5,31,26B Elizabeth St,26B Elizabeth St New York City ,40.7161512,-73.9970348
+New York,New York City,Gong Cha,$,4,128,72 Bayard St,72 Bayard St New York City ,40.7157424,-73.9982362
+New York,New York City,Cool Fresh Juice Bar,$,4.5,37,333 6th Ave,333 6th Ave New York City ,40.7314983,-74.0014132
+New York,New York City,Something Sweet,$$,4,137,4910 Vernon Blvd,4910 Vernon Blvd New York City ,40.7431624,-73.9542434
+New York,New York City,ViVi Bubble Tea,$,4.5,74,790 Manhattan Ave,790 Manhattan Ave New York City ,40.7276552,-73.9527651
+New York,New York City,One More Charm,,4.5,33,236 7th Ave,236 7th Ave New York City ,40.7446578,-73.995552
+New York,New York City,Krua,$$,4.5,53,1764 1AVE,1764 1AVE New York City ,40.780336,-73.946651
+New York,New York City,Tidal Tea,$,4.5,60,1520 Amsterdam Ave,1520 Amsterdam Ave New York City ,40.8192064,-73.9523978
+New York,New York City,Vivi Bubble Tea,$,3.5,204,170 W 23rd St,170 W 23rd St New York City ,40.743773,-73.9954779
+New York,New York City,PokéBowl Station,$$,4,96,237 Flatbush Ave,237 Flatbush Ave New York City ,40.6811056,-73.9750004
+New York,New York City,PokéBowl Station,$$,4,117,2037 86th St,2037 86th St New York City ,40.604173,-73.9971092
+New York,New York City,Panda Bubble Tea,$,3.5,182,858 Lexington Ave,858 Lexington Ave New York City ,40.7658058,-73.9658192
+New York,New York City,Gong Cha,$,3,327,12 W 32nd St,12 W 32nd St New York City ,40.7474051,-73.9865687
+New York,New York City,Summer,$,4,116,85-36 Grand Ave,85-36 Grand Ave New York City ,40.735356,-73.880914
+New York,New York City,Möge Tee,$,4,91,90 Canal St,90 Canal St New York City ,40.7153507,-73.9938298
+New York,New York City,Möge Tee,$$,4,99,42-32 Crescent St,42-32 Crescent St New York City ,40.7498735,-73.9415391
+New York,New York City,Dragon Horn Tea,,4.5,34,106 Greenwich St,106 Greenwich St New York City ,40.7085281,-74.0136016
+New York,New York City,Ho Ho Té,,4,105,805 8th Ave,805 8th Ave New York City ,40.7615395,-73.9869963
+New York,New York City,Panda Bubble Tea,$,4,121,1000 S 8th Ave,1000 S 8th Ave New York City ,40.7669606,-73.98298
+New York,New York City,Hawa Smoothies & Bubble Tea,$,4.5,34,295 Broadway,295 Broadway New York City ,40.7086375,-73.9580872
+New York,New York City,Juicy Cube,$$,4.5,57,166 W 72nd St,166 W 72nd St New York City ,40.7781931,-73.9812185
+New York,New York City,Modern Tea Shop,,4.5,50,300 W 49th St,300 W 49th St New York City ,40.7616987,-73.9871574
+New York,New York City,Vivi Bubble Tea,$,4,99,35-16 Ditmars Blvd,35-16 Ditmars Blvd New York City ,40.7744017,-73.9085791
+New York,New York City,Gong Cha,$,4,94,160 E 44th St,160 E 44th St New York City ,40.7520891,-73.9739606
+New York,New York City,Kung Fu Tea,$,4,109,1219 1st Ave,1219 1st Ave New York City ,40.764001,-73.9590391
+New York,New York City,Cloud 9 Crepes,$,4.5,38,434 Marcus Garvey Blvd,434 Marcus Garvey Blvd New York City ,40.6819979,-73.9380049
+New York,New York City,Kung Fu Tea,$,3.5,172,11 W 32nd St,11 W 32nd St New York City ,40.7477348,-73.9861939
+New York,New York City,Sweets Bakery,$,4,75,135 Walker St,135 Walker St New York City ,40.717286,-73.9996625
+New York,New York City,Banhmigos,$,3.5,167,636 Park Pl,636 Park Pl New York City ,40.6742351,-73.9569925
+New York,New York City,Macao Imperial Tea,$,4,58,173 Hester St,173 Hester St New York City ,40.7178774,-73.9969023
+New York,New York City,Yi Fang Taiwan Fruit Tea,$,4,84,44-68 21st St,44-68 21st St New York City ,40.7478366,-73.9476873
+New York,New York City,Coco Fresh Tea & Juice,$,4.5,57,8612 5th Ave,8612 5th Ave New York City ,40.7645432,-73.9730622
+New York,New York City,Kung Fu Tea,,4.5,25,76 5th Ave,76 5th Ave New York City ,40.735692,-73.9939037
+New York,New York City,Kung Fu Tea,$,4,122,1422 Ave U,1422 Ave U New York City ,40.5985988,-73.9565322
+New York,New York City,Ama Coffee,$,4.5,58,6047 Myrtle Ave,6047 Myrtle Ave New York City ,40.7007914,-73.8966424
+New York,New York City,Boba Fries,$,4.5,51,8121 Broadway,8121 Broadway New York City ,40.7432154,-73.8830956
+New York,New York City,Mudflow Tea House,$,4,62,5602 8th Ave,5602 8th Ave New York City ,40.637793,-74.0075064
+New York,New York City,Tea & Burger,$,3.5,143,7202 New Utrecht Ave,7202 New Utrecht Ave New York City ,40.6182063,-73.9995539
+New York,New York City,Möge Tee Greenwich Village,,5,26,168 Bleecker St,168 Bleecker St New York City ,40.7286086,-74.0004173
+New York,New York City,One Zo - New York,$,4,52,110 3rd Ave,110 3rd Ave New York City ,40.7329148,-73.9877211
+New York,New York City,Namas Tea,,5,19,863 Sterling Pl,863 Sterling Pl New York City ,40.672756,-73.949904
+New York,New York City,Macao Imperial Tea,$,4,60,15 W 32nd St,15 W 32nd St New York City ,40.7477222,-73.9863775
+New York,New York City,Desi Deli Indian Restaurant,$,3.5,121,724 10th Ave,724 10th Ave New York City ,40.76429,-73.9917074
+New York,New York City,KOI Thé,$$,4,81,189 Bleecker St,189 Bleecker St New York City ,40.729396,-74.001306
+New York,New York City,Bee Cafe,$,4.5,29,60-11 39th Ave,60-11 39th Ave New York City ,40.7475304,-73.9030796
+New York,New York City,Coco Fresh Tea & Juice,$,4,69,79 Division St,79 Division St New York City ,40.7141342,-73.9938025
+New York,New York City,Moge Tee,$,4,82,302 West 39th St,302 West 39th St New York City ,40.7553884,-73.9917278
+New York,New York City,CoCo Fresh Tea & Juice,$,3.5,148,1384 Broadway,1384 Broadway New York City ,40.7526131,-73.9871511
+New York,New York City,Vivi Bubble Tea,$,3.5,99,183 Hester St,183 Hester St New York City ,40.7181249,-73.9974167
+New York,New York City,Gong Cha,,5,22,925 Lexington Ave,925 Lexington Ave New York City ,40.7679866,-73.9638139
+New York,New York City,TKK Fried Chicken,,3.5,96,115 E 23rd St,115 E 23rd St New York City ,40.740063,-73.9855319
+New York,New York City,Gong Cha,$,4,53,156 Lawrence St,156 Lawrence St New York City ,40.6915133,-73.9865257
+New York,New York City,Truedan,,4.5,33,208 Grand St,208 Grand St New York City ,40.7191742,-73.9962197
+New York,New York City,MomenTea Kitchen,$$,4,49,213 W 40th St,213 W 40th St New York City ,40.7551644,-73.988554
+New York,New York City,Gong Cha,$,3.5,107,1 Catherine St,1 Catherine St New York City ,40.7138763,-73.9972797
+New York,New York City,Gong Cha,$,4,49,200 Broadway,200 Broadway New York City ,40.7105274,-74.0089937
+New York,New York City,Kung Fu Tea,$,4,70,9 Broadway,9 Broadway New York City ,40.7051869,-74.0142069
+New York,New York City,CoCo Fresh Tea & Juice,$,3.5,106,12 John St,12 John St New York City ,40.7098261,-74.0091249
+New York,New York City,Gotcha Cafe,$,4.5,38,1712 86th St,1712 86th St New York City ,40.6081896,-74.0047088
+New York,New York City,JMcakeBoutique,,4.5,26,7211 18th Ave,7211 18th Ave New York City ,40.6147129,-73.9943181
+New York,New York City,U Tea,,4.5,29,139 Fulton St,139 Fulton St New York City ,40.7104617,-74.0077673
+New York,New York City,Yifang Taiwan Fruit Tea,$,3.5,97,67 Bayard St,67 Bayard St New York City ,40.7152841,-73.9983144
+New York,New York City,Yaya Tea Garden,$,3.5,83,284 3rd Ave,284 3rd Ave New York City ,40.7383967,-73.983683
+New York,New York City,Kung Fu Tea,$$,4,64,115 E 23rd St,115 E 23rd St New York City ,40.740063,-73.9855319
+New York,New York City,TBaar,$,4.5,31,1323 Ave U,1323 Ave U New York City ,40.5988348,-73.9575259
+New York,New York City,Vivi Bubble Tea,$,4,41,113 Court St,113 Court St New York City ,40.6905566,-73.9916668
+New York,New York City,ViVi Bubble Tea,$,3.5,87,6731 Bay Pkwy,6731 Bay Pkwy New York City ,40.6118877,-73.9830197
+New York,New York City,Mocktails & Dreams,,4.5,60,30 Mall Dr W,30 Mall Dr W New York City ,40.7268406,-74.0379931
+New York,New York City,Me-Do Desserts,$,4,70,3 Bay 25th St,3 Bay 25th St New York City ,40.603855,-73.99763
+New York,New York City,Formosa Cafe,$,3.5,119,5323 7th Ave,5323 7th Ave New York City ,40.7517748,-73.9900696
+New York,New York City,Banhmigos,,4.5,28,92 Court St,92 Court St New York City ,40.6911288,-73.9919088
+New York,New York City,Brew Memories,,4.5,19,295 7th Ave,295 7th Ave New York City ,40.7462825,-73.9936734
+New York,New York City,Kung Fu Tea,$,3.5,155,2174 86th St,2174 86th St New York City ,40.6019865,-73.9943776
+New York,New York City,Jupioca,$,4,47,19 Hillel Pl,19 Hillel Pl New York City ,40.6325137,-73.9483698
+New York,New York City,80's Tea,$,3.5,78,6815 Bay Pkwy,6815 Bay Pkwy New York City ,40.6114258,-73.9836932
+New York,New York City,Vivi Bubble Tea,$,3.5,208,117 Washington St,117 Washington St New York City ,40.7089403,-74.0138592
+New York,New York City,Uncle Drink,$,4,54,32-55 Steinway St,32-55 Steinway St New York City ,40.7575216,-73.919885
+New York,New York City,Kung Fu Tea,$,4.5,35,8625 5th Ave,8625 5th Ave New York City ,40.778016,-73.962986
+New York,New York City,Utepia Tea,$,4,48,167 Canal St,167 Canal St New York City ,40.7168259,-73.9970506
+New York,New York City,Vivi Bubble Tea,$,3.5,71,30 3rd Ave,30 3rd Ave New York City ,40.7303635,-73.9896177
+New York,New York City,Bubbleology,$,3.5,84,120 1/2 1st Ave,120 1/2 1st Ave New York City ,40.7270401,-73.9854158
+New York,New York City,Pig Pig Cafe,$,5,17,7115 3rd Ave,7115 3rd Ave New York City ,40.761263,-73.9668152
+New York,New York City,ViVi Bubble Tea,$$,4.5,36,532B Forest Ave,532B Forest Ave New York City ,40.6301502,-74.1079043
+New York,New York City,Tornado Crepe,$,4,53,307 Knickerbocker Ave,307 Knickerbocker Ave New York City ,40.7017486,-73.9231918
+New York,New York City,Kung Fu Tea,$,4,96,536 Washington St,536 Washington St New York City ,40.7273154,-74.0096838
+New York,New York City,Tornado Crepe,$,4,48,8610 Roosevelt Ave,8610 Roosevelt Ave New York City ,40.7477823,-73.8799004
+New York,New York City,Tornado Crepe,$,4,49,1808 Weirfield St,1808 Weirfield St New York City ,40.7001601,-73.9027004
+New York,New York City,Vivi Bubble Tea,$,3.5,67,1324 2nd Ave,1324 2nd Ave New York City ,40.767213,-73.9591496
+New York,New York City,Momochai,$,4,54,57-16 Woodside Ave,57-16 Woodside Ave New York City ,40.7456038,-73.9068134
+New York,New York City,Avenue Coffee House,$,3.5,73,45-01 Greenpoint Ave,45-01 Greenpoint Ave New York City ,40.7420242,-73.9197527
+New York,New York City,Yifang Taiwan Fruit Tea,$$,3.5,48,1028 6th Ave,1028 6th Ave New York City ,40.7525211,-73.9854478
+New York,New York City,Kung Fu Tea,$,3.5,73,82-02 Roosevelt Ave,82-02 Roosevelt Ave New York City ,40.7474573,-73.8837266
+New York,New York City,Jupioca,$,4,42,1457 York Ave,1457 York Ave New York City ,40.7703618,-73.9514809
+New York,New York City,Hawa Smoothies and Bubble Tea,,4,33,1293 1st Ave,1293 1st Ave New York City ,40.7663532,-73.9574565
+New York,New York City,Kung Fu Tea,$,3,129,806 55th St,806 55th St New York City ,40.6380465,-74.0064287
+New York,New York City,Uptown Poke,,4,49,506 Amsterdam Ave,506 Amsterdam Ave New York City ,40.7868084,-73.976047
+New York,New York City,Le Moment,$,3.5,53,69-38 Grand Ave,69-38 Grand Ave New York City ,40.7264466,-73.8940766
+New York,New York City,Bobba Hubba,$,4.5,18,40-36 75th St,40-36 75th St New York City ,40.745864,-73.890601
+New York,New York City,Gong Cha,$$,4.5,20,1600 Broadway,1600 Broadway New York City ,40.7601775,-73.9843631
+New York,New York City,Dumpling D’Or,$$,3.5,65,25-15 Queens Plz N,25-15 Queens Plz N New York City ,40.7509344,-73.9393073
+New York,New York City,Chau Down Cafe,$,3.5,71,80 Dekalb Ave,80 Dekalb Ave New York City ,40.6896378,-73.9800477
+New York,New York City,Newkirk Fruit,$,4,25,17 Newkirk Plz,17 Newkirk Plz New York City ,40.6348653,-73.9624672
+New York,New York City,YiFang Taiwan Fruit Tea,$,3.5,71,774 58th St,774 58th St New York City ,40.6366754,-74.0089655
+New York,New York City,Fulton Thai,$$,3,105,848 Fulton St,848 Fulton St New York City ,40.6834181,-73.9674261
+New York,New York City,Sweetie House,$$,3.5,56,5701 6th Ave,5701 6th Ave New York City ,40.742903,-73.9927978
+New York,New York City,Gong Cha,$,4.5,53,527 Washington St,527 Washington St New York City ,40.72716,-74.0095754
+New York,New York City,TBaar,$,4.5,17,36 W 36th St,36 W 36th St New York City ,40.7502326,-73.9854363
+New York,New York City,Vivi Bubble Tea,$,3,96,5924 8th Ave,5924 8th Ave New York City ,40.6357039,-74.0096469
+New York,New York City,Vivi Bubble Tea,$,3.5,65,18 W 14th St,18 W 14th St New York City ,40.7362427,-73.9949199
+New York,New York City,Vivi Bubble Tea,$,3.5,38,325 Broadway,325 Broadway New York City ,40.716076,-74.004925
+New York,New York City,Home,$,3.5,67,349 5th Ave,349 5th Ave New York City ,40.7481164,-73.9843674
+New York,New York City,Fancy Juice,$$,3.5,40,69 1st Ave,69 1st Ave New York City ,40.7254513,-73.9871629
+New York,New York City,Woodside Rainbow Bakery,$,4,29,39-61 61st St,39-61 61st St New York City ,40.7452697,-73.9030401
+New York,New York City,Juice Vitality,$$,4.5,13,18 Beaver St,18 Beaver St New York City ,40.7048052,-74.0124081
+New York,New York City,Lee Lee,$,4.5,23,5718 5th Ave,5718 5th Ave New York City ,40.778016,-73.962986
+New York,New York City,Gong Cha,$$,4,31,2810 Broadway,2810 Broadway New York City ,40.8031948,-73.9670765
+New York,New York City,Vivi Bubble Tea,,4,27,31-54 Steinway St,31-54 Steinway St New York City ,40.7599871,-73.9184246
+New York,New York City,Babo Teahouse,$,3,269,10 River Dr S,10 River Dr S New York City ,40.7266958,-74.0319718
+New York,New York City,TSAôCAA,$$,3,89,773 59th St,773 59th St New York City ,40.636469,-74.0091487
+New York,New York City,Gong Cha,,4.5,23,1698 E 14th St,1698 E 14th St New York City ,40.7270041,-73.972287
+New York,New York City,Yo Health,,5,11,41-53 53rd St,41-53 53rd St New York City ,40.7442074,-73.9113604
+New York,New York City,Moge Tee Brooklyn,$,3.5,47,705 59th St,705 59th St New York City ,40.6374077,-74.0107341
+New York,New York City,Jupioca,$,4,24,278 Wyckoff Ave,278 Wyckoff Ave New York City ,40.6999306,-73.9121464
+New York,New York City,Möge Tee - Fifth Ave,$,4,24,275 5th Ave,275 5th Ave New York City ,40.7455724,-73.9864745
+New York,New York City,Ollies To Go,,3.5,54,307 E 77th St,307 E 77th St New York City ,40.7720009,-73.9554325
+New York,New York City,Yifang Taiwan Fruit Tea,$,3.5,32,33 St Marks Pl,33 St Marks Pl New York City ,40.729047,-73.98809
+New York,New York City,M Tea,,3,60,63 Bayard St,63 Bayard St New York City ,40.7152737,-73.9981297
+New York,New York City,ViVi bubble tea,,4.5,13,50 Lexington Ave,50 Lexington Ave New York City ,40.7406448,-73.9842426
+New York,New York City,Taiwan Station,$,3.5,57,5510 7th Ave,5510 7th Ave New York City ,40.7517748,-73.9900696
+New York,New York City,Vivi Bubble Tea,$,3.5,56,2169 86th St,2169 86th St New York City ,40.6024434,-73.9940789
+New York,New York City,Jupioca,$,3.5,30,39 John St,39 John St New York City ,40.7094669,-74.0081372
+New York,New York City,Vivi Bubble Tea,$,3,49,2 E Broadway,2 E Broadway New York City ,40.7136352,-73.9975404
+New York,New York City,Vivi Bubble Tea,$,3.5,42,488 7th Ave,488 7th Ave New York City ,40.7526205,-73.9897521
+New York,New York City,E's Cake Shop,,4,21,1508 86th St,1508 86th St New York City ,40.611038,-74.009507
+New York,New York City,TenIchi Mart,,5,9,118 Smith St,118 Smith St New York City ,40.6877739,-73.9900535
+New York,New York City,Boba Fix,,4,22,250 Mott St,250 Mott St New York City ,40.7233616,-73.9944621
+New York,New York City,Mars Tea,$,4,32,2037 86th St,2037 86th St New York City ,40.604173,-73.9971092
+New York,New York City,Something Sweet,,4.5,16,1976 86th St,1976 86th St New York City ,40.6046233,-73.9987849
+New York,New York City,Lian Sheng Restaurant,$,4,26,5722B 8th Ave,5722B 8th Ave New York City ,40.6368946,-74.008449
+New York,New York City,Boba Dumbo,,4,15,52 Jay St,52 Jay St New York City ,40.7033548,-73.9868891
+New York,New York City,SoHo Eatery,,4,24,273 Canal St,273 Canal St New York City ,40.7191558,-74.0011966
+New York,New York City,Vivi Bubble Tea,$,4.5,17,5002 5th Ave,5002 5th Ave New York City ,40.7771823,-73.9635973
+New York,New York City,Moge Tee,,4.5,11,379 First Ave,379 First Ave New York City ,40.7364629,-73.9791232
+New York,New York City,Tea Magic,,4,24,239 W 72nd St,239 W 72nd St New York City ,40.7794159,-73.9829341
+New York,New York City,mellow tea,,4,25,1268 Amsterdam Ave,1268 Amsterdam Ave New York City ,40.811138,-73.9583141
+New York,New York City,Drink Tea,$,3.5,32,4722 8th Ave,4722 8th Ave New York City ,40.830515,-73.936172
+New York,New York City,Vivi Bubble Tea,$,3.5,38,1616 Avenue U,1616 Avenue U New York City ,40.5987961,-73.954925
+New York,New York City,KOI Thé,,4.5,10,32 Union Square E,32 Union Square E New York City ,40.7356853,-73.9892836
+New York,New York City,Hawa smoothie & Bubble tea,,5,8,1151 2nd Ave,1151 2nd Ave New York City ,40.7616583,-73.9638006
+New York,New York City,Creep City Ninja Bubble Tea,,3.5,27,265 Graham Ave,265 Graham Ave New York City ,40.7112142,-73.9440628
+New York,New York City,CoCo Fresh Tea & Juice,,3.5,27,646 9th Ave,646 9th Ave New York City ,40.7604721,-73.9907904
+New York,New York City,Earnest Tea Cafe,$,3,58,6008 8th Ave,6008 8th Ave New York City ,40.7507848,-73.9944651
+New York,New York City,Tbaar,$,4,24,8520 20th Ave,8520 20th Ave New York City ,40.6048307,-73.9982685
+New York,New York City,Poke n' Ramen 360,$$,4,29,30 Mall Dr W,30 Mall Dr W New York City ,40.7268406,-74.0379931
+New York,New York City,CoCo Fresh Tea & Juice,$$,4.5,28,420 Grand St,420 Grand St New York City ,40.7157251,-73.9859935
+New York,New York City,Yummy Boba Desserts,,4.5,8,5814 7th Ave,5814 7th Ave New York City ,40.7517748,-73.9900696
+New York,New York City,Coco Fresh Tea & Juice,$,4,14,124 W 72nd St,124 W 72nd St New York City ,40.7775968,-73.9799038
+New York,New York City,Tan-Cha,,4,12,5503 8th Ave,5503 8th Ave New York City ,40.7507848,-73.9944651
+New York,New York City,Tiger Sugar,,4,13,2132 86th St,2132 86th St New York City ,40.6026117,-73.9953189
+New York,New York City,Vivi Bubble Tea,$,3.5,24,6517 18th Ave,6517 18th Ave New York City ,40.6186376,-73.9903833
+New York,New York City,OJBK Tea Shop,$,4.5,8,525 Myrtle Ave,525 Myrtle Ave New York City ,40.693939,-73.9636869
+New York,New York City,Gong Cha,$,3.5,19,5723 8th Ave,5723 8th Ave New York City ,40.7507848,-73.9944651
+New York,New York City,Moge Tee,,4,17,2013 86th St,2013 86th St New York City ,40.6045252,-73.9976831
+New York,New York City,High Tea House,,4,11,2349 86th St,2349 86th St New York City ,40.6000753,-73.9901767
+New York,New York City,Oolong Tea & Poke Bowl,$,4,68,133 Front St,133 Front St New York City ,40.7052918,-74.0058741
+New York,New York City,Jupioca,,4,9,135 Lawrence St,135 Lawrence St New York City ,40.6919256,-73.9861166
+New York,New York City,The Whale Tea,,4.5,6,209 E 14th St,209 E 14th St New York City ,40.7332264,-73.9862398
+New York,New York City,In Cha,,3,25,6003 7th Ave,6003 7th Ave New York City ,40.7517748,-73.9900696
+New York,New York City,Cafe Pilipino,$,4,26,530 Newark Ave,530 Newark Ave New York City ,40.7308705,-74.0557458
+New York,New York City,Long Wong Bakery,$,3,25,264 Kings Hwy,264 Kings Hwy New York City ,40.6051108,-73.9807911
+New York,New York City,Trutea,,5,4,7 E 14th St,7 E 14th St New York City ,40.735795,-73.9925067
+New York,New York City,TBaar,$,3,19,5912 Fort Hamilton Pkwy,5912 Fort Hamilton Pkwy New York City ,40.6334474,-74.0054161
+New York,New York City,Kung Fu Tea,,4,8,82-02 45th Ave,82-02 45th Ave New York City ,40.7415579,-73.8825176
+New York,New York City,TBaar,,4.5,6,82-02 45th Ave,82-02 45th Ave New York City ,40.7415579,-73.8825176
+New York,New York City,harmony,,3.5,14,451 E 116th St,451 E 116th St New York City ,40.795369,-73.9332037
+New York,New York City,Bao by Kaya,,3.5,19,30 Mall Dr E W,30 Mall Dr E W New York City ,40.7268406,-74.0379931
+New York,New York City,ÜMACHA,,4,53,595 River Rd,595 River Rd New York City ,40.8161407,-73.9804318
+New York,New York City,Master Grill,$$,3,20,262 Cypress Ave,262 Cypress Ave New York City ,40.8059453,-73.9140183
+New York,New York City,Bobaloca Bubble Tea and Coffee House,$,4.5,17,6103 Bergenline Ave,6103 Bergenline Ave New York City ,40.7900682,-74.0156061
+New York,New York City,YiFang Taiwan Fruit Tea,,4,8,61 Lexington Ave,61 Lexington Ave New York City ,40.7408555,-73.9835123
+New York,New York City,Siips Bubble,,4.5,6,7408 Grand Ave,7408 Grand Ave New York City ,40.73011,-73.8871212
+New York,New York City,Gong Cha,,4.5,4,1566 Flatbush Ave,1566 Flatbush Ave New York City ,40.6323327,-73.9474689
+New York,New York City,Sagoto BubbleTea World,,4,17,652 Newark Ave,652 Newark Ave New York City ,40.7342207,-74.058639
+New York,New York City,Moge Tee Newport,,4,12,564 Washington Blvd,564 Washington Blvd New York City ,41.5154608,-73.9405127
+New York,New York City,Gong Cha,,5,4,2508 Queens Plaza S,2508 Queens Plaza S New York City ,40.750304,-73.9404597
+New York,New York City,Cornerstone Café,$,2.5,24,60-15 Woodside Ave,60-15 Woodside Ave New York City ,40.7450988,-73.903829
+New York,New York City,Mi Tea,,3.5,7,2046 86th St,2046 86th St New York City ,40.603704,-73.997358
+New York,New York City,Hawa Smoothies,,4.5,4,156 Delancey St,156 Delancey St New York City ,40.7181468,-73.9860442
+New York,New York City,CoCo Fresh Tea & Juice,,4,5,459 Lexington Ave,459 Lexington Ave New York City ,40.7534048,-73.9743598
+New York,New York City,Waffle & Bubble,,4,21,2300 Summit Ave,2300 Summit Ave New York City ,40.7687739,-74.0362089
+New York,New York City,Kung Fu Tea,$,3.5,6,2851 Broadway,2851 Broadway New York City ,40.8046958,-73.9667079
+New York,New York City,G & J Bubble Tea,,3.5,5,7802 New Utrecht Ave,7802 New Utrecht Ave New York City ,40.6134019,-74.0008928
+New York,New York City,Barley Time,,3.5,5,705 59th St,705 59th St New York City ,40.6374077,-74.0107341
+New York,New York City,Jw Golden Bakery,$,3,7,6017 4th Ave,6017 4th Ave New York City ,40.6402764,-74.0185054
+New York,New York City,The Pretzel Twister,,4,4,5458 Myrtle Ave,5458 Myrtle Ave New York City ,40.6996894,-73.9086939
+New York,New York City,D&M Bakery Inc.,,3,5,83 Essex St,83 Essex St New York City ,40.7182766,-73.9888733
+New York,New York City,Kung Fu Tea,,3,6,5100 Kings Plz,5100 Kings Plz New York City ,40.6104056,-73.9208363
+New York,New York City,Bubble Tea,$,5,1,98 Walker St,98 Walker St New York City ,40.7178215,-74.0005182
+New York,New York City,YinYang Coffee & Tea,,3.5,2,61 Lexington Ave,61 Lexington Ave New York City ,40.7408555,-73.9835123
+New York,New York City,Pastry Bakery,$,3,4,82-02 Roosevelt Ave,82-02 Roosevelt Ave New York City ,40.7474573,-73.8837266
+New York,New York City,Crispy Burger,,3,2,196 Smith St,196 Smith St New York City ,40.685077,-73.9917951
+New York,New York City,Sweetea,,4,1,5814 7th Ave,5814 7th Ave New York City ,40.7517748,-73.9900696
+New York,New York City,Teas' Tea,$,3.5,10,595 River Rd,595 River Rd New York City ,40.8161407,-73.9804318
+New York,New York City,Bubblion,,4,1,501 W 116th St,501 W 116th St New York City ,40.8065487,-73.9600149
+New York,New York City,TBaar,$,3,5,5314 8th Ave,5314 8th Ave New York City ,40.7507848,-73.9944651
+New York,New York City,Hawa Smoothie & Bubble Tea,,5,1,193 Church St,193 Church St New York City ,40.7158457,-74.0070667
+New York,New York City,Mojoilla,,5,1,2 Mott St,2 Mott St New York City ,40.7138425,-73.998498
+New York,New York City,Haveli Cafe & Lounge,,1,1,6709 5th Ave,6709 5th Ave New York City ,40.778016,-73.962986
+New York,New York City,Uncleman Cafe,,1,1,122 Mulberry St,122 Mulberry St New York City ,40.7178654,-73.9979524
+New York,New York City,Gogo Tea,,2.5,3,60-07 Roosevelt Ave,60-07 Roosevelt Ave New York City ,40.7456663,-73.9041293
+New York,New York City,Chatime,,1,1,5302 58th St,5302 58th St New York City ,40.7342439,-73.9102904
+New York,New York City,Waffle & Bubble,,4,1,6306 Bergenline Ave,6306 Bergenline Ave New York City ,40.7919246,-74.0137393
+Califronia,Los Angeles,Pine & Crane,$$,4.5,2296,1521 Griffith Park Blvd,1521 Griffith Park Blvd Los Angeles ,34.0905596,-118.2770803
+California,Los Angeles,Berlins,$,4.5,991,8474 W 3rd St,8474 W 3rd St Los Angeles ,34.0729138,-118.3753034
+California,Los Angeles,MILK+T,$,4,945,310 E 2nd St,310 E 2nd St Los Angeles ,34.0490195,-118.241506
+California,Los Angeles,Pearl's Finest Teas,$,4.5,712,523 N Fairfax Ave,523 N Fairfax Ave Los Angeles ,34.0807166,-118.3617016
+California,Los Angeles,Twinkle Brown Sugar,$,4,1275,131 S Central Ave,131 S Central Ave Los Angeles ,34.048289,-118.2395445
+California,Los Angeles,Bubble U,$,4.5,591,843 N Broadway,843 N Broadway Los Angeles ,34.0635784,-118.2378901
+California,Los Angeles,It's Boba Time,$,4,879,701 S Vermont Ave,701 S Vermont Ave Los Angeles ,34.059607,-118.2921825
+California,Los Angeles,Pho Saigon Pearl,$$,4,754,519 S Fairfax Ave,519 S Fairfax Ave Los Angeles ,34.0668701,-118.3615719
+California,Los Angeles,Little Fluffy Head Cafe,$,4.5,407,203 W 7th St,203 W 7th St Los Angeles ,34.0448428,-118.2524754
+California,Los Angeles,It's Boba Time,$,3.5,823,3450 W 6th St,3450 W 6th St Los Angeles ,34.0631971,-118.2971971
+California,Los Angeles,Kung Fu Tea,$,4,354,740 S Western Ave,740 S Western Ave Los Angeles ,34.05837,-118.308692
+California,Los Angeles,Bohemia,$,4.5,219,7525 Sunset Blvd,7525 Sunset Blvd Los Angeles ,34.0981909,-118.3535627
+California,Los Angeles,Tea N' Me,$,4.5,302,2256 Colorado Blvd,2256 Colorado Blvd Los Angeles ,34.1389139,-118.2155985
+California,Los Angeles,Hey Hey,$,4,300,1555 W Sunset Blvd,1555 W Sunset Blvd Los Angeles ,34.0767629,-118.2566367
+California,Los Angeles,Boba Guys,,4,303,1670 Beverly Blvd,1670 Beverly Blvd Los Angeles ,34.0640345,-118.2654514
+California,Los Angeles,Pot of Cha,$,4.5,184,3013 S Figueroa St,3013 S Figueroa St Los Angeles ,34.0249586,-118.2786964
+California,Los Angeles,Gong Cha,$,4,398,3785 Wilshire Blvd,3785 Wilshire Blvd Los Angeles ,34.0624413,-118.308578
+California,Los Angeles,Tan-Cha,$$,4,371,3407 W 6th St,3407 W 6th St Los Angeles ,34.0638399,-118.2957612
+California,Los Angeles,Cup O' Joy,$,4,423,3016 S Figueroa St,3016 S Figueroa St Los Angeles ,34.0244531,-118.2778003
+California,Los Angeles,I Love Boba,$,4,265,3512 W 8th St,3512 W 8th St Los Angeles ,34.0572963,-118.3072853
+California,Los Angeles,White and Brown,$,4,178,603 S Mariposa Ave,603 S Mariposa Ave Los Angeles ,34.063164,-118.299572
+California,Los Angeles,Mr Boba,$,4,219,3805 W 6th St,3805 W 6th St Los Angeles ,34.0639204,-118.3056858
+California,Los Angeles,Wushiland Boba,$,4,149,10250 Santa Monica Blvd,10250 Santa Monica Blvd Los Angeles ,34.0590031,-118.418866
+California,Los Angeles,Arena Ktown,$$,3.5,319,3319 Wilshire Blvd,3319 Wilshire Blvd Los Angeles ,34.0620233,-118.2948845
+California,Los Angeles,Mr Boba,$,4,142,700 S Western Ave,700 S Western Ave Los Angeles ,34.059487,-118.3085231
+California,Los Angeles,Boteaga,$$,4,223,331 E 1st St,331 E 1st St Los Angeles ,34.0499223,-118.240009
+California,Los Angeles,It's Boba Time,$,4,298,2255 Colorado Blvd,2255 Colorado Blvd Los Angeles ,34.1395713,-118.2154289
+California,Los Angeles,Boba Story,$,3.5,323,701 S Western Ave,701 S Western Ave Los Angeles ,34.0595444,-118.3095151
+California,Los Angeles,Yifang Taiwan Fruit Tea,,4.5,91,3726 W 6th St,3726 W 6th St Los Angeles ,34.0634121,-118.303594
+California,Los Angeles,Poké Bar,$$,4,173,5273 W Olympic Blvd,5273 W Olympic Blvd Los Angeles ,34.0574088,-118.3453924
+California,Los Angeles,Redstraw,,4,202,10250 Santa Monica Blvd,10250 Santa Monica Blvd Los Angeles ,34.0590031,-118.418866
+California,Los Angeles,It's Boba Time,$,3,388,125 N Western Ave,125 N Western Ave Los Angeles ,34.0737404,-118.3094365
+California,Los Angeles,Ten Ren's Tea Time,$,3.5,240,726 N Hill St,726 N Hill St Los Angeles ,34.0615064,-118.2400081
+California,Los Angeles,Lollicup,$,3.5,266,988 N Hill St,988 N Hill St Los Angeles ,34.0664537,-118.2369924
+California,Los Angeles,CALI PHO NIA,$,4,89,425 S Western Ave,425 S Western Ave Los Angeles ,34.0663419,-118.3096213
+California,Los Angeles,Hana Kitchen,$,4.5,60,854 N Vermont Ave,854 N Vermont Ave Los Angeles ,34.0869431,-118.2914197
+California,Los Angeles,Gong Cha,$,4,156,318 E 2nd St,318 E 2nd St Los Angeles ,34.0487422,-118.2413279
+California,Los Angeles,DingTea,$,4,91,5265 Hollywood Blvd,5265 Hollywood Blvd Los Angeles ,34.1022734,-118.3054834
+California,Los Angeles,Alfred Tea Room,$$,3.5,577,705 N Alfred St,705 N Alfred St Los Angeles ,34.083865,-118.375438
+California,Los Angeles,Chun Feng Sugar,$$,4,103,600 S New Hampshire Ave,600 S New Hampshire Ave Los Angeles ,34.0634577,-118.29263
+California,Los Angeles,Boba Guys,$$,4,527,8820 Washington Blvd,8820 Washington Blvd Los Angeles ,34.0273499,-118.3872147
+California,Los Angeles,Sharp Tea,$,4,87,123 Astronaut Ellison S Onizuka St,123 Astronaut Ellison S Onizuka St Los Angeles ,34.0500712,-118.2423853
+California,Los Angeles,Dragon Boba,,4,79,528 S Western Ave,528 S Western Ave Los Angeles ,34.0645165,-118.3088885
+California,Los Angeles,Latea Bubble Tea Lounge,,5,136,3851 Main St,3851 Main St Los Angeles ,34.0124751,-118.2740308
+California,Los Angeles,It's Boba Time,$,4,103,704 N Vermont Ave,704 N Vermont Ave Los Angeles ,34.0839232,-118.2912407
+California,Los Angeles,Macchiato,$,4.5,32,418 W Pico Blvd,418 W Pico Blvd Los Angeles ,34.0390649,-118.2650576
+California,Los Angeles,Noodle World Jr.,$,3.5,160,6118 W Sunset Blvd,6118 W Sunset Blvd Los Angeles ,34.0983082,-118.3227481
+California,Los Angeles,Cafe 70 Degrees,$,3.5,918,3863 Overland Ave,3863 Overland Ave Los Angeles ,34.0168154,-118.406435
+California,Los Angeles,Wanderlust Creamery,,5,24,7920 W 3rd St,7920 W 3rd St Los Angeles ,34.0713847,-118.3622523
+California,Los Angeles,H2bOba,,5,22,100 1/2 S Vermont Ave,100 1/2 S Vermont Ave Los Angeles ,34.0726965,-118.2911922
+California,Los Angeles,TeaPop,$,4,662,5050 Vineland Ave,5050 Vineland Ave Los Angeles ,34.1625163,-118.3700492
+California,Los Angeles,Ms Chi Cafe,$$,4,316,3829 Main St,3829 Main St Los Angeles ,34.0124854,-118.2740308
+California,Los Angeles,Factory Tea Bar,$,4,66,2700 S Figueroa St,2700 S Figueroa St Los Angeles ,34.0268331,-118.2758219
+California,Los Angeles,Boba Loca,$,3,148,3121 Glendale Blvd,3121 Glendale Blvd Los Angeles ,34.116829,-118.2624662
+California,Los Angeles,Ratchetivi Teas,,5,17,3319 Wilshire Blvd,3319 Wilshire Blvd Los Angeles ,34.0620233,-118.2948845
+California,Los Angeles,Mini Monster,$,4,233,1000 Universal Studios Blvd,1000 Universal Studios Blvd Los Angeles ,34.1366863,-118.3507605
+California,Los Angeles,CoCo Fresh Tea and Juice,$,3,143,8336 Lincoln Blvd,8336 Lincoln Blvd Los Angeles ,33.9618684,-118.4208014
+California,Los Angeles,Tea Maru - Housemade Boba,,3.5,64,724 S Spring St,724 S Spring St Los Angeles ,34.0438135,-118.2525938
+California,Los Angeles,HOLD FOR TEA,$,4.5,223,6000 Sepulveda Blvd,6000 Sepulveda Blvd Los Angeles ,33.9854311,-118.3933176
+California,Los Angeles,It's Boba Time,$,3.5,77,2848 W Olympic Blvd,2848 W Olympic Blvd Los Angeles ,34.0524479,-118.2962609
+California,Los Angeles,Milkcow Cafe,,4,25,801 S Hope St,801 S Hope St Los Angeles ,34.0464709,-118.2595146
+California,Los Angeles,Milk Crate,,4,25,5138 Hollywood Blvd,5138 Hollywood Blvd Los Angeles ,34.1014695,-118.3019449
+California,Los Angeles,Junbi - Smorgasburg,$$,4,35,785 Bay St,785 Bay St Los Angeles ,34.0312882,-118.2393832
+California,Los Angeles,BonTea,,4,49,7275 Melrose Ave,7275 Melrose Ave Los Angeles ,34.0837269,-118.3484092
+California,Los Angeles,CoCo Fresh Tea & Juice,$,3,85,3470 W 6th St,3470 W 6th St Los Angeles ,34.0631287,-118.2974712
+California,Los Angeles,Dana Café Boba,$,4,21,4260 S Vermont Ave,4260 S Vermont Ave Los Angeles ,34.0060105,-118.2912739
+California,Los Angeles,Bobarrito,$$,3.5,78,2700 Pennsylvania Ave,2700 Pennsylvania Ave Los Angeles ,34.0428568,-118.2055761
+California,Los Angeles,Percolate,$,4.5,103,7959 Melrose Ave,7959 Melrose Ave Los Angeles ,34.0839873,-118.363053
+California,Los Angeles,Cafe Dolcini,$,4,22,619 S Grand Ave,619 S Grand Ave Los Angeles ,34.0482753,-118.2559128
+California,Los Angeles,It's Boba Time,$,3,89,372 E 2nd St,372 E 2nd St Los Angeles ,34.0477185,-118.2396813
+California,Los Angeles,Trà Space,,4.5,68,4012 Tilden Ave,4012 Tilden Ave Los Angeles ,34.0103669,-118.4109002
+California,Los Angeles,Boba Square,$,3,69,621 S Western Ave,621 S Western Ave Los Angeles ,34.0627765,-118.3095299
+California,Los Angeles,CoCo Fresh Tea & Juice,$,3.5,38,735 South Figueroa St,735 South Figueroa St Los Angeles ,34.0491696,-118.2608507
+California,Los Angeles,The Alley Express - Hollywood,,4,21,615 N Western Ave,615 N Western Ave Los Angeles ,34.0822657,-118.3093072
+California,Los Angeles,Sip N Dip,,5,6,1830 W 8th St,1830 W 8th St Los Angeles ,34.0533401,-118.2754565
+California,Los Angeles,It's Boba Time,,3,42,5549 Sunset Blvd,5549 Sunset Blvd Los Angeles ,34.098364,-118.3111586
+California,Los Angeles,Emperor Express,$,3.5,275,13320 Burbank Blvd,13320 Burbank Blvd Los Angeles ,34.1718856,-118.4232662
+California,Los Angeles,Bubbles,$,3,21,3250 W Olympic Blvd,3250 W Olympic Blvd Los Angeles ,34.0522795,-118.3083861
+California,Los Angeles,Boba Tov,,4,16,8326 Wilshire Blvd,8326 Wilshire Blvd Los Angeles ,34.064051,-118.3728334
+California,Los Angeles,FUWA Teriyaki Grill,,4,9,10250 Santa Monica Blvd,10250 Santa Monica Blvd Los Angeles ,34.0590031,-118.418866
+California,Los Angeles,L & L Hawaiian BBQ,$$,3,209,118 S Maryland Ave,118 S Maryland Ave Los Angeles ,34.145574,-118.2536783
+California,Los Angeles,Brit Boba,,4.5,173,12747 Ventura Blvd,12747 Ventura Blvd Los Angeles ,34.1458052,-118.411137
+California,Los Angeles,A’SHI BOWL,,3.5,6,1605 S Hoover St,1605 S Hoover St Los Angeles ,34.0434565,-118.2845915
+California,Los Angeles,The Coffee Cart at LMU,$$,4.5,3,1 Lmu Dr,1 Lmu Dr Los Angeles ,33.9707666,-118.4192316
+California,Los Angeles,Tim’s Thai Tea,,5,2,, Los Angeles ,34.0522342,-118.2436849
+California,Los Angeles,It's Boba Time,,4,27,1525 N Verdugo Rd,1525 N Verdugo Rd Los Angeles ,34.1689001,-118.228563
+California,Los Angeles,Isshin Ramen & Boba,,4.5,4,6775 Santa Monica Blvd,6775 Santa Monica Blvd Los Angeles ,34.0911072,-118.3381732
+California,Los Angeles,L.A. Kitchen,$,3,10,696 S Alvarado St,696 S Alvarado St Los Angeles ,34.056603,-118.2765334
+California,Los Angeles,Urban Location Boba Tea House,,3.5,36,2661 Santa Ana St,2661 Santa Ana St Los Angeles ,33.9652013,-118.2227099
+California,Los Angeles,HoneyBoba,$$,2.5,83,732 Americana Way,732 Americana Way Los Angeles ,34.1440684,-118.2556584
+California,Los Angeles,Boba House,$$,4,11,1001 S Vermont Ave,1001 S Vermont Ave Los Angeles ,34.0521275,-118.292074
+California,Los Angeles,Little Saigon Bakery,,5,1,3976 S Figueroa St,3976 S Figueroa St Los Angeles ,34.0117592,-118.282271
+California,Los Angeles,It’s Boba Time,$,4,12,100 W Broadway,100 W Broadway Los Angeles ,33.7689343,-118.1926704
+California,Los Angeles,Paul's Sherbet and Boba,$,2,3,401 S Vermont Ave,401 S Vermont Ave Los Angeles ,34.0669316,-118.2921742
+California,Los Angeles,Ms Chi at The Fields LA,,2,4,3939 S Figueroa St,3939 S Figueroa St Los Angeles ,34.01263,-118.2844545
+California,Los Angeles,Tiger Bro,,4,1,5185 W Sunset Blvd,5185 W Sunset Blvd Los Angeles ,34.0985995,-118.3030078
+California,Los Angeles,Mr Monster Hotdog,,4.5,3,116 S Artsakh Ave,116 S Artsakh Ave Los Angeles ,34.1458866,-118.2536972
+Illinois ,Chicago,Hello Jasmine,$$,4.5,216,2026 S Clark,2026 S Clark Chicago ,41.8545724,-87.6304378
+Illinois,Chicago,Java & Mug Cafe,$,4.5,199,3247 W Bryn Mawr Ave,3247 W Bryn Mawr Ave Chicago ,41.982964,-87.710749
+Illinois,Chicago,Poke Burrito,$$,4.5,110,4301 N Lincoln Ave,4301 N Lincoln Ave Chicago ,41.9597467,-87.682349
+Illinois,Chicago,Wabi Sabi,$$,4,227,4720 N Kedzie Ave,4720 N Kedzie Ave Chicago ,41.9672541,-87.7086543
+Illinois,Chicago,BAMBU,$,4,183,5010 N Broadway,5010 N Broadway Chicago ,41.9731076,-87.6600878
+Illinois,Chicago,Vivi Bubble Tea,$,4,288,333 S State St,333 S State St Chicago ,41.8775601,-87.6273668
+Illinois,Chicago,Taipei Cafe,$$,4,271,2609 S Halsted St,2609 S Halsted St Chicago ,41.8449742,-87.6461822
+Illinois,Chicago,Gathers Tea Bar,,5,57,1311 W Taylor St,1311 W Taylor St Chicago ,41.8691568,-87.6597113
+Illinois,Chicago,Bingo Tea,$$,4,180,2150 S Archer Ave,2150 S Archer Ave Chicago ,41.853648,-87.634108
+Illinois,Chicago,KURIMU,$$,4.5,97,1159 W Taylor St,1159 W Taylor St Chicago ,41.8693295,-87.6563846
+Illinois,Chicago,TSAôCAA,,4,158,2026 South Clark St,2026 South Clark St Chicago ,41.8545724,-87.6304378
+Illinois,Chicago,Kung Fu Tea,$,3.5,369,2126B S Archer Ave,2126B S Archer Ave Chicago ,41.8543409,-87.6328352
+Illinois,Chicago,Wentworth Seafood House,$$,4,108,2229 S Wentworth Ave,2229 S Wentworth Ave Chicago ,41.8519883,-87.6316695
+Illinois,Chicago,Thai Spoon & Sushi,$$,3.5,229,601 S Wabash Ave,601 S Wabash Ave Chicago ,41.874282,-87.625755
+Illinois,Chicago,Chi Yatai,$,5,44,2002 S Wentworth Ave,2002 S Wentworth Ave Chicago ,41.8550738,-87.6321316
+Illinois,Chicago,Elitea,$,4,138,2002 S Wentworth Ave,2002 S Wentworth Ave Chicago ,41.8550738,-87.6321316
+Illinois,Chicago,Freezing Point,$,4.5,75,3127 N Ashland Ave,3127 N Ashland Ave Chicago ,41.9387019,-87.6683672
+Illinois,Chicago,B.I.Tea & Dim Sum,$,4,80,131 N Clinton St,131 N Clinton St Chicago ,41.884137,-87.640973
+Illinois,Chicago,Taiyaki Chicago,,4,93,2468 N Clark St,2468 N Clark St Chicago ,41.9272307,-87.6417908
+Illinois,Chicago,Okashi,$$,4,80,820 W Belmont Ave,820 W Belmont Ave Chicago ,41.9400621,-87.6501408
+Illinois,Chicago,Eat Me Milk Me,$,4.5,55,1111 W Randolph St,1111 W Randolph St Chicago ,41.8839816,-87.6549712
+Illinois,Chicago,Living Water Tea House,,4.5,34,1453 W Taylor St,1453 W Taylor St Chicago ,41.8691159,-87.6636807
+Illinois,Chicago,Te'amo Boba Bar,$$,4,100,520 N Michigan Ave,520 N Michigan Ave Chicago ,41.8915257,-87.6248853
+Illinois,Chicago,Te'amo Boba Bar,$$,4,75,1115 E 55th St,1115 E 55th St Chicago ,41.7948776,-87.5990342
+Illinois,Chicago,Hello Jasmine - Lincoln Park,,4.5,27,953 W Webster Ave,953 W Webster Ave Chicago ,41.9215711,-87.6530454
+Illinois,Chicago,Asian Mix Cafe,$,3.5,124,3945 N Broadway,3945 N Broadway Chicago ,41.9540062,-87.6501892
+Illinois,Chicago,Kung Fu Tea,$,3.5,122,4925 N Broadway,4925 N Broadway Chicago ,41.9723285,-87.6591153
+Illinois,Chicago,Top Tao Tea,$$,4,38,5002 N Broadway,5002 N Broadway Chicago ,41.9728491,-87.659955
+Illinois,Chicago,TBaar Loyola-Lakeshore Campus,$,4.5,27,1223 W Devon Ave,1223 W Devon Ave Chicago ,41.9980351,-87.661559
+Illinois,Chicago,Hubba Bobba,$$,3.5,93,1013 W Webster Ave,1013 W Webster Ave Chicago ,41.9215925,-87.6540468
+Illinois,Chicago,Lotus Seed,,4,27,5100 N Broadway,5100 N Broadway Chicago ,41.9748224,-87.6601938
+Illinois,Chicago,Tea Ninja,$,3.5,50,3139 N Broadway,3139 N Broadway Chicago ,41.9388188,-87.6441427
+Illinois,Chicago,Taichi Bubble Tea Chicago,$$,4,38,6800 N Sheridan Rd,6800 N Sheridan Rd Chicago ,42.005695,-87.661231
+Illinois,Chicago,Ten Cafe,,4,19,3308 N Western Ave,3308 N Western Ave Chicago ,41.941241,-87.688743
+Illinois,Chicago,Naranja Dulce,,4.5,11,3124 W Montrose,3124 W Montrose Chicago ,41.9614595,-87.7068892
+Illinois,Chicago,Snow Dragon Shavery,$$,3,58,700 E Grand Ave,700 E Grand Ave Chicago ,41.8912818,-87.6046915
+Illinois,Chicago,Hitea,,4.5,9,215 E Grand Ave,215 E Grand Ave Chicago ,41.8915625,-87.6220499
+Illinois,Chicago,Simple Delights,$,3,32,6255 N McCormick Rd,6255 N McCormick Rd Chicago ,41.9950705,-87.7117774
+Illinois,Chicago,Meet Noodles,,4.5,6,2026 S Clark St,2026 S Clark St Chicago ,41.8545724,-87.6304378
+Illinois,Chicago,Tai Chi Bubble Tea,,4,11,1158 W Taylor St,1158 W Taylor St Chicago ,41.8695906,-87.6565107
+Illinois,Chicago,Two Lanterns Cafe,,5,20,3900 W Touhy Ave,3900 W Touhy Ave Chicago ,42.0120179,-87.7264647
+Illinois,Chicago,Panda Express,$,2.5,31,180 N Wabash,180 N Wabash Chicago ,41.8855117,-87.6264969
+Illinois,Chicago,Chill Bubble Tea,$$,3.5,158,7154 Carpenter Rd,7154 Carpenter Rd Chicago ,42.0109848,-87.7622934
+Illinois,Chicago,Portage Park Tea,,5,3,5741 W Irving Park Rd,5741 W Irving Park Rd Chicago ,41.9529045,-87.7710645
+Illinois,Chicago,Sweet Monster,,4,17,6604 Roosevelt Rd,6604 Roosevelt Rd Chicago ,41.8653985,-87.789143
+Illinois,Chicago,Uni Uni,,4.5,3,2171 S China Pl,2171 S China Pl Chicago ,41.8535129,-87.6351544
+Texas,Houston,The Teahouse Tapioca & Tea,$,4,793,2089 Westheimer Rd,2089 Westheimer Rd Houston ,29.7413578,-95.4102476
+Texas,Houston,B&T Cafe,$,4.5,259,2007 W Alabama St,2007 W Alabama St Houston ,29.7382419,-95.4084768
+Texas,Houston,Teapresso Bar,$,4.5,274,718 W 18th St,718 W 18th St Houston ,29.8014599,-95.4108497
+Texas,Houston,Hella Bubble,$,4.5,222,2400 Mid Ln,2400 Mid Ln Houston ,29.7425635,-95.450549
+Texas,Houston,Cafe#13,$,4.5,95,2808 Milam St,2808 Milam St Houston ,29.7450891,-95.3776379
+Texas,Houston,Kung Fu Tea,$,3.5,326,3224 Yoakum Blvd,3224 Yoakum Blvd Houston ,29.7441306,-95.3929122
+Texas,Houston,The Teahouse Tapioca & Tea,$,4,117,5710 Memorial Dr,5710 Memorial Dr Houston ,29.7616483,-95.4195649
+Texas,Houston,Mama’s Kitchen,$$,4,94,3815 Richmond Ave,3815 Richmond Ave Houston ,29.7322224,-95.4387591
+Texas,Houston,Smootea Cafe,$,4.5,84,4007 Bellaire Blvd,4007 Bellaire Blvd Houston ,29.7049782,-95.4416494
+Texas,Houston,7 Leaves Cafe,,4.5,45,3825 Richmond Ave,3825 Richmond Ave Houston ,29.7322206,-95.4393527
+Texas,Houston,Baoz Dumpling,$,4,86,1001 Fannin St,1001 Fannin St Houston ,29.7557923,-95.3639415
+Texas,Houston,Purple Kow,,4,66,2531 University Blvd,2531 University Blvd Houston ,29.7148377,-95.4179476
+Texas,Houston,The Teahouse Tapioca & Tea,$,3.5,110,2518 Rice Blvd,2518 Rice Blvd Houston ,29.7177325,-95.4174985
+Texas,Houston,Boba Chick,,4.5,27,3506 Scott St,3506 Scott St Houston ,29.7245878,-95.350841
+Texas,Houston,Azza Cafe,$,3,156,4701 Calhoun Rd,4701 Calhoun Rd Houston ,29.7227933,-95.337151
+Texas,Houston,Addictea Cafe,$,4,33,1001 Fannin St,1001 Fannin St Houston ,29.7557923,-95.3639415
+Texas,Houston,The Teahouse Tapioca & Tea,$$,3.5,50,840 Gulfgate Center Mall,840 Gulfgate Center Mall Houston ,29.6972695,-95.2968151
+Texas,Houston,Teahouse Tapioca & Tea,$,4,30,506 Yale St,506 Yale St Houston ,29.7800693,-95.3986028
+Texas,Houston,Kung Fu Tea,$,3.5,26,3201 Louisiana St,3201 Louisiana St Houston ,29.7425336,-95.379478
+Texas,Houston,Class 502 Rolling Ice Cream,$$,2.5,100,7620 Katy Fwy,7620 Katy Fwy Houston ,29.785526,-95.4640201
+Texas,Houston,Boba Cafe,$,3,38,1113 Holman St,1113 Holman St Houston ,29.7391431,-95.3768815
+Texas,Houston,Tealicious Drinks,$,2.5,58,4810 Calhoun Rd,4810 Calhoun Rd Houston ,29.7201261,-95.3408014
+Texas,Houston,The Teahouse Tapioca and Tea,$,3,22,8224 Kirby Dr,8224 Kirby Dr Houston ,29.6917618,-95.4132227
+Texas,Houston,East-West Tea,$,4,8,99 Sunset Blvd,99 Sunset Blvd Houston ,29.7217291,-95.3962669
+Texas,Houston,Zero Degrees,$$,2,50,4440 N Fwy,4440 N Fwy Houston ,29.8330181,-95.3809501
+Pennsylvania,Philadelphia,Tea Do,$,4,804,132 N 10th St,132 N 10th St Philadelphia ,39.9547069,-75.156306
+Pennsylvania,Philadelphia,Bubblefish,$$,4,509,909 Arch St,909 Arch St Philadelphia ,39.9536791,-75.1551081
+Pennsylvania,Philadelphia,Ice Cave,$,5,127,4520 Baltimore Ave,4520 Baltimore Ave Philadelphia ,39.9488414,-75.2135505
+Pennsylvania,Philadelphia,Mr Wish,$,4.5,252,216 N 10th St,216 N 10th St Philadelphia ,39.9559225,-75.155964
+Pennsylvania,Philadelphia,BAMBU,$,4,165,600 Washington Ave,600 Washington Ave Philadelphia ,39.9344835,-75.1549941
+Pennsylvania,Philadelphia,Vegan Tree,$,4,192,742 S St,742 S St Philadelphia ,39.9422712,-75.1549237
+Pennsylvania,Philadelphia,Vivi Bubble Tea,$,3.5,246,145 N 10th St,145 N 10th St Philadelphia ,39.9548343,-75.1558378
+Pennsylvania,Philadelphia,Mi 'N Tea,,5,61,4229 Main St,4229 Main St Philadelphia ,40.0243322,-75.2207517
+Pennsylvania,Philadelphia,Kung Fu Tea,$,3.5,310,1006 Arch St,1006 Arch St Philadelphia ,39.9534159,-75.1567462
+Pennsylvania,Philadelphia,A Cup Of Tea,$,4.5,87,115 N 9th St,115 N 9th St Philadelphia ,39.95393,-75.1544914
+Pennsylvania,Philadelphia,DJ Kitchen,$$,4.5,96,4040 City Ave,4040 City Ave Philadelphia ,40.0074349,-75.2124437
+Pennsylvania,Philadelphia,Mr Wish - South Philly,$,4,85,1100 Washington Ave,1100 Washington Ave Philadelphia ,39.9373778,-75.1616647
+Pennsylvania,Philadelphia,Tsaocaa & BBQ Chicken,$$,3.5,146,938 Race St,938 Race St Philadelphia ,39.9551305,-75.155701
+Pennsylvania,Philadelphia,T cafe,,4.5,51,108 Chestnut St,108 Chestnut St Philadelphia ,39.9480127,-75.1429772
+Pennsylvania,Philadelphia,St Honore Pastries,$,4,75,935 Race St,935 Race St Philadelphia ,39.9555052,-75.1555641
+Pennsylvania,Philadelphia,Vietnam Express,$,4,67,101 N 11th St,101 N 11th St Philadelphia ,39.954055,-75.1575729
+Pennsylvania,Philadelphia,Mr Wish,$,4,70,6846 Bustleton Ave,6846 Bustleton Ave Philadelphia ,40.0417033,-75.0647227
+Pennsylvania,Philadelphia,Ochatto,$$,3.5,199,3608 Chestnut St,3608 Chestnut St Philadelphia ,39.9544702,-75.1952098
+Pennsylvania,Philadelphia,Tsaocaa,$,4.5,41,4415 Main St,4415 Main St Philadelphia ,40.026369,-75.2251847
+Pennsylvania,Philadelphia,Möge Tee - Philadelphia,$$,4,52,1025 Arch St,1025 Arch St Philadelphia ,39.9540272,-75.1573997
+Pennsylvania,Philadelphia,Mr deer the camp,$$,4,69,1023 Cherry St,1023 Cherry St Philadelphia ,39.9547891,-75.1569208
+Pennsylvania,Philadelphia,Big Catch Poke,,4.5,33,1840 E Passyunk Ave,1840 E Passyunk Ave Philadelphia ,39.9267197,-75.1673635
+Pennsylvania,Philadelphia,Mr Wish,,4.5,28,2100 Walnut St,2100 Walnut St Philadelphia ,39.9505003,-75.1760294
+Pennsylvania,Philadelphia,Teas N' Mi,$,4,40,1907 E Passyunk Ave,1907 E Passyunk Ave Philadelphia ,39.9263496,-75.1673863
+Pennsylvania,Philadelphia,Woosa Bubble Tea,$,4,39,3639 Lancaster Ave,3639 Lancaster Ave Philadelphia ,39.9592388,-75.1945386
+Pennsylvania,Philadelphia,BBQ Chicken,$$,4.5,79,7034 Terminal Square,7034 Terminal Square Philadelphia ,39.9616172,-75.2625402
+Pennsylvania,Philadelphia,Tbaar,,4,25,4321 Main St,4321 Main St Philadelphia ,40.0253066,-75.2226663
+Pennsylvania,Philadelphia,Mr. Wish USA,,4.5,14,320 W Oregon Ave,320 W Oregon Ave Philadelphia ,39.9127689,-75.1535348
+Pennsylvania,Philadelphia,Tea Do,$,4,26,3900 Sansom St,3900 Sansom St Philadelphia ,39.9545865,-75.2001238
+Pennsylvania,Philadelphia,BAMBU,$,3.5,55,5520 Whitaker Ave,5520 Whitaker Ave Philadelphia ,40.0356633,-75.1006256
+Pennsylvania,Philadelphia,Sharetea,,4.5,15,600 Washington Ave,600 Washington Ave Philadelphia ,39.9344835,-75.1549941
+Pennsylvania,Philadelphia,Kc's Pastries Northeast,$,4,22,6840 Bustleton Ave,6840 Bustleton Ave Philadelphia ,40.0415807,-75.0648449
+Pennsylvania,Philadelphia,KungFu Tea,,4,24,13 N 32nd St,13 N 32nd St Philadelphia ,39.9559202,-75.18798
+Pennsylvania,Philadelphia,Tsaocaa,,4,16,1715 Chestnut St,1715 Chestnut St Philadelphia ,39.9516409,-75.1693482
+Pennsylvania,Philadelphia,Kung Fu Tea,$,3,77,2222 Cottman Ave,2222 Cottman Ave Philadelphia ,40.0484967,-75.0618561
+Pennsylvania,Philadelphia,Tasty Pot - Philadelphia,$$,4,16,513 Adam Ave,513 Adam Ave Philadelphia ,40.0390482,-75.1074023
+Pennsylvania,Philadelphia,Fat tuna,,4,14,2451 N 54th,2451 N 54th Philadelphia ,39.9956107,-75.2338566
+Pennsylvania,Philadelphia,S&P Boba Tea,,4.5,20,7050 Terminal Sq,7050 Terminal Sq Philadelphia ,39.9612738,-75.2628487
+Pennsylvania,Philadelphia,Tsaocaa,,3.5,16,1042 South St,1042 South St Philadelphia ,39.9428279,-75.159885
+Pennsylvania,Philadelphia,Banh Mi Square,$,3.5,21,320 W Oregon Ave,320 W Oregon Ave Philadelphia ,39.9127689,-75.1535348
+Pennsylvania,Philadelphia,Disguiser Party Game Lounge,,4,10,3617 Lancaster Ave,3617 Lancaster Ave Philadelphia ,39.9590456,-75.1941853
+Pennsylvania,Philadelphia,TKK Fried Chicken,,4,10,4500 City Ave,4500 City Ave Philadelphia ,40.0030201,-75.2214924
+Pennsylvania,Philadelphia,BAMBU,$$,4.5,26,6009 Mansion Blvd,6009 Mansion Blvd Philadelphia ,39.9358409,-75.0608032
+Pennsylvania,Philadelphia,Kung Fu Tea,$,3,13,600 Washington Ave,600 Washington Ave Philadelphia ,39.9344835,-75.1549941
+Pennsylvania,Philadelphia,Mr. Wish,,3,11,1426 Cecil B Moore Ave,1426 Cecil B Moore Ave Philadelphia ,39.978707,-75.1592124
+Pennsylvania,Philadelphia,Ding Tea Philadelphia,,3,13,821 Adams Ave,821 Adams Ave Philadelphia ,40.0249999,-75.0958651
+Pennsylvania,Philadelphia,Mr Wish,,3,9,5520 Whitaker Ave,5520 Whitaker Ave Philadelphia ,40.0356633,-75.1006256
+Pennsylvania,Philadelphia,Kung Fu Tea,,3.5,3,600 Washington Ave,600 Washington Ave Philadelphia ,39.9344835,-75.1549941
+Pennsylvania,Philadelphia,Kung Fu Tea,,5,1,4500 City Ave,4500 City Ave Philadelphia ,40.0030201,-75.2214924
+Pennsylvania,Philadelphia,penrose cheesesteak,,3.5,4,2201 Penrose Ave,2201 Penrose Ave Philadelphia ,39.9102487,-75.1869588
+Pennsylvania,Philadelphia,Mr Wish - Upper Darby,,2.5,18,7050 Terminal Square,7050 Terminal Square Philadelphia ,39.9612738,-75.2628487
+Pennsylvania,Philadelphia,Mr Wish,,3.5,7,5201 Rte 38 W,5201 Rte 38 W Philadelphia ,39.9360236,-75.0659514
+Pennsylvania,Philadelphia,Tsaocaa,,4,5,7320 Old York Rd,7320 Old York Rd Philadelphia ,40.0629904,-75.1369342
+Pennsylvania,Philadelphia,Canton Express,,3,9,1214 N Black Horse Pike,1214 N Black Horse Pike Philadelphia ,39.8493702,-75.0726248
+Arizona,Phoenix,Snoh Ice Shavery,$,4.5,720,914 E Camelback Rd,914 E Camelback Rd Phoenix ,33.5096962,-112.0608644
+Arizona,Phoenix,Milk Run,$,4.5,471,1702 W Camelback Rd,1702 W Camelback Rd Phoenix ,33.5101779,-112.0961681
+Arizona,Phoenix,Pop 'N Tea Bar,$,4.5,350,550 W McDowell Rd,550 W McDowell Rd Phoenix ,33.4660415,-112.0822441
+Arizona,Phoenix,Scooptopia,$,5,124,4700 N Central Ave,4700 N Central Ave Phoenix ,33.5063339,-112.0745341
+Arizona,Phoenix,Best Donuts,$,5,116,2320 E Baseline Rd,2320 E Baseline Rd Phoenix ,33.379523,-112.0318193
+Arizona,Phoenix,Bosa Donuts,$,4,384,3722 E Indian School Rd,3722 E Indian School Rd Phoenix ,33.4954623,-112.0010846
+Arizona,Phoenix,My Tea,$,4,151,4750 N Central Ave,4750 N Central Ave Phoenix ,33.5071236,-112.0746506
+Arizona,Phoenix,YobaHut,$,4,62,3446 W Camelback Rd,3446 W Camelback Rd Phoenix ,33.510306,-112.1324027
+Arizona,Phoenix,Bobaholic Milk Tea Lounge,,4,50,6135 N 35th Ave,6135 N 35th Ave Phoenix ,33.5256968,-112.1304
+Arizona,Phoenix,Cajeta Churro Cafe,,5,9,3015 E Thomas Rd,3015 E Thomas Rd Phoenix ,33.4802788,-112.0166875
+Arizona,Phoenix,Bubble Bee,$$,4,78,5000 S Arizona Mills Cir,5000 S Arizona Mills Cir Phoenix ,33.3832233,-111.9644216
+Arizona,Phoenix,Fatty Daddy's,,3.5,15,888 N 1st Ave,888 N 1st Ave Phoenix ,33.4583292,-112.0753863
+Arizona,Phoenix,Boba & Donuts,$,4.5,27,2700 W Baseline Rd,2700 W Baseline Rd Phoenix ,33.3794372,-111.9768241
+Texas,San Antonio,Suck It The Restaurant,$$,4,498,7220 Louis Pasteur Dr,7220 Louis Pasteur Dr San Antonio ,29.5009296,-98.5767375
+Texas,San Antonio,The Crepe Addiction,$,5,71,5222 De Zavala Rd,5222 De Zavala Rd San Antonio ,29.5638383,-98.5865671
+Texas,San Antonio,Artea,,4.5,163,6362 De Zavala Rd,6362 De Zavala Rd San Antonio ,29.5628661,-98.6119052
+Texas,San Antonio,Snopioca,$,4,187,6423 Babcock Rd,6423 Babcock Rd San Antonio ,29.5464596,-98.6144784
+Texas,San Antonio,Zero Degrees,,4,169,6903 Blanco Rd,6903 Blanco Rd San Antonio ,29.518636,-98.5077875
+Texas,San Antonio,Tea Time,$,4.5,77,11255 Huebner Rd,11255 Huebner Rd San Antonio ,29.5464632,-98.5776818
+Texas,San Antonio,Kung Fu Tea,,4,43,5231 Broadway,5231 Broadway San Antonio ,29.4757811,-98.4632845
+Texas,San Antonio,Jollicup Bubble Tea & Desserts,$,3.5,101,8002 Callaghan Rd,8002 Callaghan Rd San Antonio ,29.5114153,-98.5515444
+Texas,San Antonio,Bobalicious,$,3.5,115,4961 NW Loop 410,4961 NW Loop 410 San Antonio ,29.4884251,-98.5844493
+Texas,San Antonio,Hella Bubble,,4.5,22,12730 W I-10,12730 W I-10 San Antonio ,29.5621852,-98.5931368
+Texas,San Antonio,Sushee Tea + Eats,$$,5,10,14375 Blanco Rd,14375 Blanco Rd San Antonio ,29.5734238,-98.5161125
+Texas,San Antonio,Lustea,,3,27,602 NW Loop 410,602 NW Loop 410 San Antonio ,29.5196594,-98.5026579
+Texas,San Antonio,Alien Cafe,,5,6,6565 Babcock Rd,6565 Babcock Rd San Antonio ,29.5560852,-98.6143925
+Texas,San Antonio,kokeetea,,4,17,15900 La Cantera Pkwy,15900 La Cantera Pkwy San Antonio ,29.5935397,-98.6145043
+Texas,San Antonio,Kokee Tea,,5,3,7400 San Pedro Ave,7400 San Pedro Ave San Antonio ,29.5184168,-98.496275
+California,San Diego,Kung Fu Tea,$,4.5,1349,4869 Convoy St,4869 Convoy St San Diego ,32.8299788,-117.1526011
+California,San Diego,Boba Bar and Desserts,$,4.5,924,4619 Convoy St,4619 Convoy St San Diego ,32.8244905,-117.154746
+California,San Diego,GuilTea Cravings,$,4,717,5497 Clairemont Mesa Blvd,5497 Clairemont Mesa Blvd San Diego ,32.8338686,-117.1739998
+California,San Diego,55 Thai Kitchen,$,4.5,561,2601 Broadway,2601 Broadway San Diego ,32.7156842,-117.1380137
+California,San Diego,Camellia Rd Tea Bar,$,4.5,439,8199 Clairemont Mesa Blvd,8199 Clairemont Mesa Blvd San Diego ,32.8322802,-117.1480747
+California,San Diego,OO Tea,$,4,563,7330 Clairemont Mesa Blvd,7330 Clairemont Mesa Blvd San Diego ,32.8335576,-117.1607576
+California,San Diego,Happy Lemon,$,4,614,4633 Convoy St,4633 Convoy St San Diego ,32.8247928,-117.1544622
+California,San Diego,Gotcha Tea,$,4.5,396,5375 Kearny Villa Rd,5375 Kearny Villa Rd San Diego ,32.8308894,-117.1384012
+California,San Diego,Soup Du Jour,$$,5,157,8583 Aero Dr,8583 Aero Dr San Diego ,32.808881,-117.141733
+California,San Diego,Little Nap Cafe,$,4.5,239,142 University Ave,142 University Ave San Diego ,32.7484433,-117.1631011
+California,San Diego,Dumplings N More,$$,4,480,3865 Fifth Ave,3865 Fifth Ave San Diego ,32.7479688,-117.1601947
+California,San Diego,Boba Bar and Desserts,$,4,392,7655 Clairemont Mesa Blvd,7655 Clairemont Mesa Blvd San Diego ,32.831481,-117.1553353
+California,San Diego,R&B Tea,$,4.5,231,4488 Convoy St,4488 Convoy St San Diego ,32.821384,-117.155611
+California,San Diego,Sharetea,$,4.5,348,5265 Linda Vista Rd,5265 Linda Vista Rd San Diego ,32.7659387,-117.1958841
+California,San Diego,Banh Mi Hoi An,$,4.5,216,3145 Rosecrans St,3145 Rosecrans St San Diego ,32.745829,-117.2106084
+California,San Diego,Yog-art,$,4,447,3026 University Ave,3026 University Ave San Diego ,32.7487142,-117.1294856
+California,San Diego,Tapioca Express,$,3.5,996,4646 Convoy St,4646 Convoy St San Diego ,32.8248571,-117.1559327
+California,San Diego,Ding Tea Balboa,$,4.5,223,5945 Balboa Ave,5945 Balboa Ave San Diego ,32.8196477,-117.1775535
+California,San Diego,The Korean Rose,$,4.5,217,7655 Clairemont Mesa Blvd,7655 Clairemont Mesa Blvd San Diego ,32.831481,-117.1553353
+California,San Diego,It's Boba Time,$,3.5,855,4344 Convoy St,4344 Convoy St San Diego ,32.8193705,-117.1560246
+California,San Diego,DaYung's Tea - Convoy,$,4.5,178,4235 Convoy St,4235 Convoy St San Diego ,32.8189977,-117.1542567
+California,San Diego,Saigon Sandwiches & Deli,$,4,268,4133 University Ave,4133 University Ave San Diego ,32.7491735,-117.1062006
+California,San Diego,Sharetea,$,4.5,184,6353 El Cajon Blvd,6353 El Cajon Blvd San Diego ,32.7639803,-117.0618343
+California,San Diego,Sweet Roll Ice Cream,$,5,75,3555 Rosecrans St,3555 Rosecrans St San Diego ,32.7498156,-117.204728
+California,San Diego,Sharetea,$,3.5,590,4917 Convoy St,4917 Convoy St San Diego ,32.8305476,-117.152785
+California,San Diego,Tealightful Cafe,,4.5,79,4726 Clairemont Mesa Blvd,4726 Clairemont Mesa Blvd San Diego ,32.8347717,-117.1888139
+California,San Diego,Tea Station,$$,3,980,7315 Clairemont Mesa Blvd,7315 Clairemont Mesa Blvd San Diego ,32.832066,-117.1605968
+California,San Diego,ViVi Bubble Tea,$,4,156,3904 Convoy St,3904 Convoy St San Diego ,32.8144333,-117.1544622
+California,San Diego,The Poke Co.,$$,4,213,8590 Rio San Diego Dr,8590 Rio San Diego Dr San Diego ,32.7757336,-117.1446138
+California,San Diego,Gong Cha,$,4,222,4764 Convoy St,4764 Convoy St San Diego ,32.8283259,-117.1540027
+California,San Diego,Ice Box,$,4.5,89,4649 College Ave,4649 College Ave San Diego ,32.762393,-117.0663241
+California,San Diego,Ding Tea SDSU,$,4,242,5807 University Ave,5807 University Ave San Diego ,32.7491323,-117.0719351
+California,San Diego,CHAKAA,$,4,148,4344 Convoy St,4344 Convoy St San Diego ,32.8193705,-117.1560246
+California,San Diego,Luxe Boba and TeaCo,,4.5,72,3755 Murphy Canyon Rd,3755 Murphy Canyon Rd San Diego ,32.8108797,-117.1158586
+California,San Diego,Go Heart Tea Bar,$,4.5,66,9340 Clairemont Mesa Blvd,9340 Clairemont Mesa Blvd San Diego ,32.8325199,-117.127923
+California,San Diego,The Poke,$,4,122,423 F St,423 F St San Diego ,32.713478,-117.1606626
+California,San Diego,Yog-art,$,4,94,10450 Friars Rd,10450 Friars Rd San Diego ,32.7921228,-117.099174
+California,San Diego,Ding Tea La Jolla,$,4,155,8905 Towne Centre Dr,8905 Towne Centre Dr San Diego ,32.8674511,-117.2067761
+California,San Diego,Happytime Tea,$,4,105,4336 54th St,4336 54th St San Diego ,32.7558428,-117.0803062
+California,San Diego,Tapioca Express,$,3,427,7770 Regents Rd,7770 Regents Rd San Diego ,32.8628174,-117.2243624
+California,San Diego,Bao Bar,,4.5,52,2820 Historic Decatur Rd,2820 Historic Decatur Rd San Diego ,32.7402027,-117.2111137
+California,San Diego,Berry Fresh,$,5,31,5416 El Cajon Blvd,5416 El Cajon Blvd San Diego ,32.7581301,-117.0789183
+California,San Diego,Tea’s Moment - Boba Point Loma,,4.5,40,2180 Chatsworth Blvd,2180 Chatsworth Blvd San Diego ,32.7394051,-117.2280881
+California,San Diego,ChaCha Tea Spot,$,4,70,5950 Balboa Ave,5950 Balboa Ave San Diego ,32.821638,-117.1769594
+California,San Diego,Tapioca Express,$,3,295,6145 El Cajon Blvd,6145 El Cajon Blvd San Diego ,32.7608157,-117.0658469
+California,San Diego,Cafe 20/20,$,3,211,4105 Mission Blvd,4105 Mission Blvd San Diego ,32.7911421,-117.2536195
+California,San Diego,Wushiland Boba,,3.5,52,4309 La Jolla Village Dr,4309 La Jolla Village Dr San Diego ,32.8705166,-117.2122852
+California,San Diego,Panda House Cafe,,4.5,16,2379 Ulric St,2379 Ulric St San Diego ,32.7864826,-117.169603
+California,San Diego,Yogurt Farm,$,3,94,4882 Newport Ave,4882 Newport Ave San Diego ,32.7457664,-117.248907
+California,San Diego,Da Nang Corner,,4,35,4428 Convoy St,4428 Convoy St San Diego ,32.8203193,-117.1559786
+California,San Diego,Tan-Cha,,3.5,31,4688 Convoy St,4688 Convoy St San Diego ,32.8263339,-117.1551975
+California,San Diego,Bubble Up Boba and Waffles,,4,21,1001 Garnet Ave,1001 Garnet Ave San Diego ,32.7972086,-117.2514735
+California,San Diego,Happy Lemon,,4,23,4545 La Jolla Village Dr,4545 La Jolla Village Dr San Diego ,32.8710475,-117.2134107
+California,San Diego,Rare Tea - San Diego,,5,8,4203 Genesee Ave,4203 Genesee Ave San Diego ,32.821017,-117.180944
+California,San Diego,Tapioca Express,$,3,219,9500 Gilman Dr,9500 Gilman Dr San Diego ,32.8799731,-117.237084
+California,San Diego,House of Pho,$,4,100,3120 E Plaza Blvd,3120 E Plaza Blvd San Diego ,32.6816895,-117.0731473
+Texas,Dallas,Fat Straws Bubble Tea,$,4,442,5301 Alpha Rd,5301 Alpha Rd Dallas ,32.9335619,-96.8173479
+Texas,Dallas,Hello Dumpling,$$,4.5,324,1146 Peavy Rd,1146 Peavy Rd Dallas ,32.8395579,-96.6966878
+Texas,Dallas,Poke' Bop,$$,4,235,4103 Lemmon Ave,4103 Lemmon Ave Dallas ,32.8148349,-96.8095992
+Texas,Dallas,Royal I.T. Cafe,$$,4,193,9100 N Central Expy,9100 N Central Expy Dallas ,32.8725497,-96.7689732
+Texas,Dallas,Family Thais Asian Bistro,$$,4.5,99,208 N Market,208 N Market Dallas ,32.7804796,-96.806174
+Texas,Dallas,Bobaddiction,$,4,151,3014 Main St,3014 Main St Dallas ,32.7845138,-96.7797597
+Texas,Dallas,Fat Straws Bubble Tea,$,4,105,11810 Preston Rd,11810 Preston Rd Dallas ,32.9100854,-96.8034924
+Texas,Dallas,Kung Fu Tea,$,4.5,59,3001 Knox St,3001 Knox St Dallas ,32.8213481,-96.7871751
+Texas,Dallas,Panda Tea,$$,4,78,5521 Greenville Ave,5521 Greenville Ave Dallas ,32.853688,-96.7698721
+Texas,Dallas,Poke Bop,$$,4,87,4140 Abrams Rd,4140 Abrams Rd Dallas ,32.8360364,-96.752527
+Texas,Dallas,Craft Boba Tea,$,4,53,6105 Greenville Ave,6105 Greenville Ave Dallas ,32.8597378,-96.7685235
+Texas,Dallas,Pho 88,$$,3.5,132,312 W 7th St,312 W 7th St Dallas ,32.7487127,-96.8273984
+Texas,Dallas,Sharetea,$,4.5,20,13350 Dallas Pkwy,13350 Dallas Pkwy Dallas ,32.929809,-96.8198806
+Texas,Dallas,Boba Latte,$,4,403,115 S Greenville Ave,115 S Greenville Ave Dallas ,32.9476448,-96.7297058
+Texas,Dallas,FULLL,,5,38,600 N Pearl St,600 N Pearl St Dallas ,32.7865684,-96.7950926
+Texas,Dallas,MōMōChá Richardson,$$,4,74,221 W Polk St,221 W Polk St Dallas ,32.9488732,-96.7345554
+Texas,Dallas,Craft Boba Tea,,5,4,408 N Bishop Ave,408 N Bishop Ave Dallas ,32.7483533,-96.8279852
+Texas,Dallas,Sharetea,$,4,97,1386 E Belt Line Rd,1386 E Belt Line Rd Dallas ,32.9435305,-96.7006783
+Texas,Dallas,Gong Cha,$,3.5,183,1425 E Beltline Rd,1425 E Beltline Rd Dallas ,32.9470609,-96.698986
+Texas,Dallas,Le's Kitchen,,5,3,10945 Estate Ln,10945 Estate Ln Dallas ,32.8818532,-96.6954704
+Texas,Dallas,Poke Bear,,3,8,5521 Greenville Ave,5521 Greenville Ave Dallas ,32.853688,-96.7698721
+Texas,Dallas,Boba Freeze Dallas,$$,4,4,, Dallas ,32.7766642,-96.7969879
+Texas,Dallas,Gong Cha,,5,1,11613 N Central Expy,11613 N Central Expy Dallas ,32.9078307,-96.7700118
+California,San Jose,Sweet Gelato Tea Lounge,$,4.5,1233,979 Story Rd,979 Story Rd San Jose ,37.3313308,-121.8574174
+California,San Jose,Pekoe,$,4,2314,3276 S White Rd,3276 S White Rd San Jose ,37.3146179,-121.7901318
+California,San Jose,Tasty Pot,$$,4,1092,1143 Story Rd,1143 Story Rd San Jose ,37.3327657,-121.8542596
+California,San Jose,Tea Lyfe Drinks,$,4,990,989 Story Rd,989 Story Rd San Jose ,37.3321963,-121.8574352
+California,San Jose,Soyful Desserts,$$,4,690,999 Story Rd,999 Story Rd San Jose ,37.331612,-121.8566019
+California,San Jose,Tastea,$,4,861,1160 N Capitol Ave,1160 N Capitol Ave San Jose ,37.3877283,-121.8601853
+California,San Jose,Happy Lemon,$,4,530,3005 Silver Creek Rd,3005 Silver Creek Rd San Jose ,37.3093793,-121.8139115
+California,San Jose,Happiness Cafe,$$,4.5,417,1688 Hostetter Rd,1688 Hostetter Rd San Jose ,37.3863024,-121.8846333
+California,San Jose,Toco Tea,$,4,530,1694 Berryessa Rd,1694 Berryessa Rd San Jose ,37.3727776,-121.8738056
+California,San Jose,Aloha Fresh,$$,4.5,209,225 Jackson St,225 Jackson St San Jose ,37.3494206,-121.893826
+California,San Jose,Lk Tea & Grill,$,4,703,2780 Aborn Rd,2780 Aborn Rd San Jose ,37.3134083,-121.7923167
+California,San Jose,"Pop Up Tea, Coffee & Snacks",$,4,572,185 Branham Ln,185 Branham Ln San Jose ,37.2671586,-121.833042
+California,San Jose,Sinceretea,$,4,362,392 E Taylor St,392 E Taylor St San Jose ,37.352735,-121.8917885
+California,San Jose,i-Tea,$,4,505,2936 Aborn Square Rd,2936 Aborn Square Rd San Jose ,37.3123461,-121.8097108
+California,San Jose,Teaspoon,$,4,734,4328 Moorpark Ave,4328 Moorpark Ave San Jose ,37.3153065,-121.9780509
+California,San Jose,Breaktime Tea,$,4,582,110 E San Fernando St,110 E San Fernando St San Jose ,37.3353514,-121.8866149
+California,San Jose,Tisane,$,4,396,2980 E Capitol Expy,2980 E Capitol Expy San Jose ,37.3308429,-121.811064
+California,San Jose,Passion-T Snacks & Desserts,$,4,514,2266 Senter Rd,2266 Senter Rd San Jose ,37.3105519,-121.8500309
+California,San Jose,Tra Temptation,$,4.5,255,3245 Sierra Rd,3245 Sierra Rd San Jose ,37.399416,-121.8482995
+California,San Jose,Tapioca Express,$,3.5,564,81 Curtner Ave,81 Curtner Ave San Jose ,37.3029138,-121.8644666
+California,San Jose,Bubbly,$,4,464,1816 Tully Rd,1816 Tully Rd San Jose ,37.322181,-121.8232992
+California,San Jose,Boba Pub,$,4,547,1576 Branham Ln,1576 Branham Ln San Jose ,37.2534385,-121.9015624
+California,San Jose,Boba Bar,$,3.5,529,310 S 3rd St,310 S 3rd St San Jose ,37.3324204,-121.8845666
+California,San Jose,Yummi Tea Cafe,$$,4,350,2191 Morrill Ave,2191 Morrill Ave San Jose ,37.4149024,-121.8757722
+California,San Jose,Happy Lemon,$,4.5,193,567 Coleman Ave,567 Coleman Ave San Jose ,37.3404131,-121.9064634
+California,San Jose,7 Leaves Cafe,$,4,410,375 Saratoga Ave,375 Saratoga Ave San Jose ,37.321476,-121.972068
+California,San Jose,Fantasia Coffee & Tea,$,3.5,954,378 Santana Row,378 Santana Row San Jose ,37.3198529,-121.9477156
+California,San Jose,Shincha Tea,$,4,401,2487 Alvin Ave,2487 Alvin Ave San Jose ,37.3191077,-121.8269469
+California,San Jose,Teahee,$,4,345,979 Story Rd,979 Story Rd San Jose ,37.3313308,-121.8574174
+California,San Jose,Lucky Tea,,4.5,158,956 Story Rd,956 Story Rd San Jose ,37.3303636,-121.8558458
+California,San Jose,N7 Draft Tea and Coffee,$,4,340,3005 Silver Creek Rd,3005 Silver Creek Rd San Jose ,37.3093793,-121.8139115
+California,San Jose,Milk + Ice,,4,221,2390 Almaden Rd,2390 Almaden Rd San Jose ,37.2905805,-121.8805869
+California,San Jose,Soyful Desserts,$,4,263,3005 Silver Creek Rd,3005 Silver Creek Rd San Jose ,37.3093793,-121.8139115
+California,San Jose,Kokonut Desserts,$,4.5,120,2090 N Capitol Ave,2090 N Capitol Ave San Jose ,37.4069825,-121.8873679
+California,San Jose,MILQ Tea Lounge,$,3.5,460,301 N Jackson Ave,301 N Jackson Ave San Jose ,37.3656637,-121.8517244
+California,San Jose,Milk Tea Lab,$,4,220,1601 Branham Ln,1601 Branham Ln San Jose ,37.2533809,-121.9031746
+California,San Jose,BAMBU,$,4,288,949 McLaughlin Ave,949 McLaughlin Ave San Jose ,37.3338598,-121.8557952
+California,San Jose,Gong Cha,$,3.5,509,1600 Saratoga Ave,1600 Saratoga Ave San Jose ,37.2915179,-121.9913419
+California,San Jose,Gong Cha,$,3.5,544,1701 Lundy Ave,1701 Lundy Ave San Jose ,37.3871545,-121.8876188
+California,San Jose,Pekoe,$,4,206,996 Lundy Ave,996 Lundy Ave San Jose ,37.3737959,-121.8721352
+California,San Jose,Oros Thai Chicken & Rice,$$,4.5,153,5663 Snell Ave,5663 Snell Ave San Jose ,37.2492567,-121.8317062
+California,San Jose,Sharetea,$,3.5,562,1728 Hostetter Rd,1728 Hostetter Rd San Jose ,37.3875874,-121.8828547
+California,San Jose,Tea Villa,$$,4,174,2200 Eastridge Lp,2200 Eastridge Lp San Jose ,37.3256289,-121.8139115
+California,San Jose,Tastea,,4,294,3247 South White Rd,3247 South White Rd San Jose ,37.315323,-121.793377
+California,San Jose,Bobaholics,$,4,294,1055 E Brokaw Rd,1055 E Brokaw Rd San Jose ,37.3843122,-121.897394
+California,San Jose,Tleaf Teapresso,$,4,299,860 Blossom Hill Rd,860 Blossom Hill Rd San Jose ,37.2501451,-121.8593067
+California,San Jose,N7 Draft Tea + Coffee,,4.5,73,4306 Moorpark Ave,4306 Moorpark Ave San Jose ,37.3156118,-121.9772148
+California,San Jose,Simply Boba,$,4,151,3005 Silver Creek Rd,3005 Silver Creek Rd San Jose ,37.3093793,-121.8139115
+California,San Jose,Kay's Tea House,,5,63,422 W Capitol Expy,422 W Capitol Expy San Jose ,37.2739288,-121.8506569
+California,San Jose,Happy Lemon,$,4.5,119,311 N Capitol Ave,311 N Capitol Ave San Jose ,37.3694847,-121.844991
+California,San Jose,Oh My Boba,$,4,156,1030 Piedmont Rd,1030 Piedmont Rd San Jose ,37.3919873,-121.8422501
+California,San Jose,Gong Cha,$,4,238,2200 Eastridge Lp,2200 Eastridge Lp San Jose ,37.3256289,-121.8139115
+California,San Jose,Urban Tea Cafe,$,4,174,1310 Tully Rd,1310 Tully Rd San Jose ,37.3161853,-121.8335313
+California,San Jose,TeaZer,$,4,133,22 N White Rd,22 N White Rd San Jose ,37.3664843,-121.8282819
+California,San Jose,T Spot Boba Drinks & Snacks,$,4,225,2520 Berryessa Rd,2520 Berryessa Rd San Jose ,37.3875255,-121.8579659
+California,San Jose,Pure Tea Bar,$,4,207,6195 Santa Teresa Blvd,6195 Santa Teresa Blvd San Jose ,37.2362243,-121.8041671
+California,San Jose,Teazu,$,3.5,260,969 Story Rd,969 Story Rd San Jose ,37.3321702,-121.858129
+California,San Jose,Happy Lemon,$,4.5,103,5379 Prospect Rd,5379 Prospect Rd San Jose ,37.2930161,-121.996987
+California,San Jose,Jasmine Kocha,$,4,111,3129 Meridian Ave,3129 Meridian Ave San Jose ,37.2688995,-121.9065328
+California,San Jose,Shake Tea,$,4,121,925 Blossom Hill Rd,925 Blossom Hill Rd San Jose ,37.2519376,-121.8630212
+California,San Jose,Teaspoon,$,4,116,1698 Hostetter Rd,1698 Hostetter Rd San Jose ,37.3871268,-121.8833883
+California,San Jose,Woof's Bar,$,4.5,127,2255 The Alameda,2255 The Alameda San Jose ,37.3445366,-121.9332005
+California,San Jose,Tea Village,$,4,82,231 E Santa Clara St,231 E Santa Clara St San Jose ,37.3387157,-121.8856937
+California,San Jose,Tiger Milk Boba Bar,,4,126,52 S First St,52 S First St San Jose ,37.3353364,-121.8895688
+California,San Jose,Bobateani,$,5,25,75 E Santa Clara St,75 E Santa Clara St San Jose ,37.3371187,-121.8893909
+California,San Jose,Paper Moon Cafe,,4.5,58,17 N 2nd St,17 N 2nd St San Jose ,37.3369287,-121.889904
+California,San Jose,Buddy Teahouse,$,4,106,481 E San Carlos St,481 E San Carlos St San Jose ,37.3364161,-121.8770407
+California,San Jose,T4 Story Road,$,3.5,224,969 Story Rd,969 Story Rd San Jose ,37.3321702,-121.858129
+California,San Jose,Happy Lemon,$,4,116,630 Blossom Hill Rd,630 Blossom Hill Rd San Jose ,37.2502038,-121.8442963
+California,San Jose,Milk Tea Lab,,4.5,37,1175 East Julian St,1175 East Julian St San Jose ,37.3514594,-121.8717155
+California,San Jose,BoBo Drinks,$,2.5,677,779 Story Rd,779 Story Rd San Jose ,37.3295905,-121.8592102
+California,San Jose,Tastea,$,4,124,509 W Capitol Expy,509 W Capitol Expy San Jose ,37.2751677,-121.8515843
+California,San Jose,Frozo's Frozen Yogurt,$,3.5,598,1000 Lafayette St,1000 Lafayette St San Jose ,37.3503582,-121.9438891
+California,San Jose,Jiaren Cafe,$$,4.5,107,1171 Homestead Rd,1171 Homestead Rd San Jose ,37.3484128,-121.9461112
+California,San Jose,T4,$,3,302,1671 N Capitol Ave,1671 N Capitol Ave San Jose ,37.3974483,-121.8736499
+California,San Jose,Tapioca Express,$$,3,277,5681 Snell Ave,5681 Snell Ave San Jose ,37.2493105,-121.8310603
+California,San Jose,Ding Tea House,$,3.5,156,3151 Senter Rd,3151 Senter Rd San Jose ,37.2928944,-121.8331754
+California,San Jose,Kung Fu Tea,$,3.5,151,457 Saratoga Ave,457 Saratoga Ave San Jose ,37.3188756,-121.9740823
+California,San Jose,The Tea Zone Lounge,$,3.5,139,403 N Capitol Ave,403 N Capitol Ave San Jose ,37.3720478,-121.8460644
+California,San Jose,Tea Alley,$,3.5,146,40 S 1st St,40 S 1st St San Jose ,37.3354702,-121.889891
+California,San Jose,Rabbit Rabbit Tea,$,3.5,352,2855 Stevens Creek Blvd,2855 Stevens Creek Blvd San Jose ,37.324035,-121.9464667
+California,San Jose,Gong Cha,$,3,169,140 Paseo De San Antonio,140 Paseo De San Antonio San Jose ,37.3336713,-121.8847406
+California,San Jose,Fantasia Coffee & Tea,$,4,1191,528 Barber Ln,528 Barber Ln San Jose ,37.4206867,-121.916647
+California,San Jose,Teaspoon,$,4,166,1875 S Bascom Ave,1875 S Bascom Ave San Jose ,37.2879599,-121.9332823
+California,San Jose,Butterfly,$,4,171,1000 Lafayette St,1000 Lafayette St San Jose ,37.3503582,-121.9438891
+California,San Jose,Sharetea,$,3.5,138,5627 Cottle Rd,5627 Cottle Rd San Jose ,37.2511187,-121.8051682
+California,San Jose,Pop Pot,$$,3.5,106,5293 Prospect Rd,5293 Prospect Rd San Jose ,37.2926179,-121.9954367
+California,San Jose,Poke Xpress,$$,4.5,224,1236 S Abel St,1236 S Abel St San Jose ,37.4127104,-121.9030068
+California,San Jose,Pho 21,$$,3,145,2569 King Rd,2569 King Rd San Jose ,37.3194974,-121.8235179
+California,San Jose,The Sub Hub,$,4,111,495 El Camino Real,495 El Camino Real San Jose ,37.3522491,-121.9366006
+California,San Jose,Yoogool,$,3,140,4055 Evergreen Village Sq,4055 Evergreen Village Sq San Jose ,37.3135931,-121.7731844
+California,San Jose,Coffee Lovers,,3.5,108,1696 Tully Rd,1696 Tully Rd San Jose ,37.3216252,-121.8264134
+California,San Jose,Cafe & Tea Garden,,4,35,2569 S King Rd,2569 S King Rd San Jose ,37.3194974,-121.8235179
+California,San Jose,Gong Cha,,3.5,70,1180 Blossom Hill Rd,1180 Blossom Hill Rd San Jose ,37.2496597,-121.8792307
+California,San Jose,Pho Boba,$$,3.5,85,5815 Cottle Rd,5815 Cottle Rd San Jose ,37.2454481,-121.8049573
+California,San Jose,Sharetea,$,3.5,255,2855 Stevens Creek Blvd,2855 Stevens Creek Blvd San Jose ,37.324035,-121.9464667
+California,San Jose,Breaktime Tea,$,4.5,66,199 E Campbell Ave,199 E Campbell Ave San Jose ,37.287189,-121.9464941
+California,San Jose,The Moo Bar,$,3.5,528,1080 Kiely Blvd,1080 Kiely Blvd San Jose ,37.3459399,-121.9791525
+California,San Jose,T4,$,3.5,112,6950 Almaden Expy,6950 Almaden Expy San Jose ,37.2103789,-121.8452444
+California,San Jose,Tapioca Express,$,2.5,210,2285 McKee Rd,2285 McKee Rd San Jose ,37.365266,-121.850691
+California,San Jose,Quickly,$,3,112,2200 Eastridge Loop,2200 Eastridge Loop San Jose ,37.3256289,-121.8139115
+California,San Jose,Teaspoon,$,4,225,3450 El Camino Real,3450 El Camino Real San Jose ,37.351705,-121.9910754
+California,San Jose,Happy Lemon,$,4.5,240,520 Lawrence Expy,520 Lawrence Expy San Jose ,37.3830317,-121.9953842
+California,San Jose,Tea Villa,$,4,37,150 S 1st St,150 S 1st St San Jose ,37.3333375,-121.8884946
+California,San Jose,Celsius Ice Cream,$,4.5,152,1350 S Park Victoria Dr,1350 S Park Victoria Dr San Jose ,37.4177516,-121.8736944
+California,San Jose,TeaTop,$,4,257,82 Ranch Dr,82 Ranch Dr San Jose ,37.4264467,-121.9214219
+California,San Jose,Snow's Creamery,,5,10,6029 Snell Ave,6029 Snell Ave San Jose ,37.2380281,-121.8319112
+California,San Jose,OMG Tea,,4,126,1171 Homestead Rd,1171 Homestead Rd San Jose ,37.3484128,-121.9461112
+California,San Jose,Lucky Tea,$,3.5,125,2855 Stevens Creek Blvd,2855 Stevens Creek Blvd San Jose ,37.324035,-121.9464667
+California,San Jose,Amor Cafe and Tea Oakridge,$,3,66,925 Blossom Hill Rd,925 Blossom Hill Rd San Jose ,37.2519376,-121.8630212
+California,San Jose,World Wrapps 2.0,$$,4,193,3125 Mission College Blvd,3125 Mission College Blvd San Jose ,37.3892895,-121.9830047
+California,San Jose,Bee & Tea San Jose,$$,3,77,1510 Monterey Rd,1510 Monterey Rd San Jose ,37.3147765,-121.8712033
+California,San Jose,Yi Fang Taiwan Fruit Tea,$,4,208,212 Barber Ct,212 Barber Ct San Jose ,37.4234877,-121.9183911
+California,San Jose,Pho Hoa Noodle Soup & Jazen Tea,$$,3.5,403,3147 Mission College Blvd,3147 Mission College Blvd San Jose ,37.3895063,-121.9835665
+California,San Jose,TZONE,,3.5,48,5700 Village Oaks Dr,5700 Village Oaks Dr San Jose ,37.2473595,-121.8018087
+California,San Jose,Rainbow Tea House,$,4,25,4100 Monterey Hwy,4100 Monterey Hwy San Jose ,37.2794835,-121.8341096
+California,San Jose,Happy Lemon,$,3.5,260,279 W Calaveras Blvd,279 W Calaveras Blvd San Jose ,37.427387,-121.91134
+California,San Jose,Hotpot First,$$,3.5,387,1149 N Lawrence Expy,1149 N Lawrence Expy San Jose ,37.3977108,-121.9970499
+California,San Jose,Tea Plus,$,3.5,64,2421 The Alameda,2421 The Alameda San Jose ,37.3449649,-121.9344006
+California,San Jose,MandRo Teahouse-Milpitas,,4,174,200 Serra Way,200 Serra Way San Jose ,37.42649,-121.909353
+California,San Jose,Toco Tea,$,4.5,56,3074 El Camino Real,3074 El Camino Real San Jose ,37.3518051,-121.9819401
+California,San Jose,T4,$,3.5,416,540 Barber Ln,540 Barber Ln San Jose ,37.420615,-121.9168031
+California,San Jose,Fantasia Coffee & Tea,$,3,480,3969 Rivermark Plz,3969 Rivermark Plz San Jose ,37.3938976,-121.9469496
+California,San Jose,CoCo Fresh Tea & Juice Valley Fair,$,3.5,49,2855 Stevens Creek Blvd,2855 Stevens Creek Blvd San Jose ,37.324035,-121.9464667
+California,San Jose,Honey Creme,$,3.5,170,686 Barber Ln,686 Barber Ln San Jose ,37.4192284,-121.9157526
+California,San Jose,Bubble Tea Time,$,4,111,18568 Prospect Rd,18568 Prospect Rd San Jose ,37.2917192,-121.9965391
+California,San Jose,Gong cha,$,4,61,2712 Augustine Dr,2712 Augustine Dr San Jose ,37.3815307,-121.974949
+California,San Jose,YoDo Yogurt,$,3.5,62,2475 Winchester Blvd,2475 Winchester Blvd San Jose ,37.2785585,-121.9508884
+California,San Jose,Tasty Pot,$$,4,86,222 Barber Ct,222 Barber Ct San Jose ,37.4236422,-121.9182659
+California,San Jose,Gong Cha,$,3.5,186,372 Barber Ln,372 Barber Ln San Jose ,37.4223959,-121.9172453
+Texas,Austin,SnoMo,$,4.5,484,11220 N Lamar Blvd,11220 N Lamar Blvd Austin ,30.3823698,-97.6892365
+Texas,Austin,Teapioca Lounge,$,4,537,1700 W Parmer Ln,1700 W Parmer Ln Austin ,30.413383,-97.6895545
+Texas,Austin,Tea Haus,$,4,408,10815 Ranch Road 2222,10815 Ranch Road 2222 Austin ,30.3958328,-97.8486525
+Texas,Austin,Kung Fu Tea,$,4.5,238,9070 Research Blvd,9070 Research Blvd Austin ,30.3726587,-97.7280278
+Texas,Austin,Coco's Cafe,$,4,498,8557 Research Blvd,8557 Research Blvd Austin ,30.3611162,-97.715703
+Texas,Austin,Coco's Cafe,$,3.5,405,1910 Guadalupe St,1910 Guadalupe St Austin ,30.282553,-97.742229
+Texas,Austin,101 By Teahaus,$,4,238,6929 Airport Blvd,6929 Airport Blvd Austin ,30.3371927,-97.7175696
+Texas,Austin,K-Bop,$,4,185,2002 Guadalupe St,2002 Guadalupe St Austin ,30.2828517,-97.7423068
+Texas,Austin,BAMBU,$,4,224,10901 N Lamar Blvd,10901 N Lamar Blvd Austin ,30.3783824,-97.6870314
+Texas,Austin,Tomunchi,$,4,176,1701 W Parmer Ln,1701 W Parmer Ln Austin ,30.4120891,-97.6898726
+Texas,Austin,Fruitealicious Bubble Tea & Smoothies,$$,4.5,80,6929 Airport Blvd,6929 Airport Blvd Austin ,30.3371927,-97.7175696
+Texas,Austin,Feng Cha,$$,4,103,2525 W Anderson Ln,2525 W Anderson Ln Austin ,30.3552151,-97.7326513
+Texas,Austin,Tea Cup,$,4,70,1725 E Riverside Dr,1725 E Riverside Dr Austin ,30.2434517,-97.730319
+Texas,Austin,Osio,$$,4,84,2901 S Capital Of Texas Hwy,2901 S Capital Of Texas Hwy Austin ,30.2573622,-97.8072249
+Texas,Austin,Pho Thái Son,$$,3,262,3601 W William Cannon Dr,3601 W William Cannon Dr Austin ,30.2140164,-97.8317386
+Texas,Austin,Ding Tea,$,4.5,45,1700 W Parmer Ln,1700 W Parmer Ln Austin ,30.413383,-97.6895545
+Texas,Austin,Tapioca House,$,3,219,1906 Guadalupe St,1906 Guadalupe St Austin ,30.282425,-97.7423281
+Texas,Austin,Gen bobabee & coffee house,,4.5,26,10901 N Lamar Blvd,10901 N Lamar Blvd Austin ,30.3783824,-97.6870314
+Texas,Austin,Gong Cha,$,3.5,58,2021 Guadalupe St,2021 Guadalupe St Austin ,30.2832126,-97.7417518
+Texas,Austin,Teapioca Lounge,$,3.5,73,10000 Research Blvd,10000 Research Blvd Austin ,30.3922683,-97.7482011
+Texas,Austin,The Pho,$,4,39,609 Clayton Ln,609 Clayton Ln Austin ,30.3237172,-97.7135165
+Texas,Austin,Tea Amo,,4,24,2525 W Anderson Ln,2525 W Anderson Ln Austin ,30.3552151,-97.7326513
+Texas,Austin,Fresh Cup Frozen Yogurt,$,3,81,13000 N Ih 35,13000 N Ih 35 Austin ,30.4113024,-97.6758797
+Texas,Austin,Gong cha,$,3.5,40,3210 Esperanza Crossing,3210 Esperanza Crossing Austin ,30.4006263,-97.7241031
+Texas,Austin,Kung Fu Tea,$,4,20,2001 Guadalupe St,2001 Guadalupe St Austin ,30.2828889,-97.7414899
+Texas,Austin,Gong Cha,,4,15,11821 Rock Rose Ave,11821 Rock Rose Ave Austin ,30.4040888,-97.7206977
+Texas,Austin,Boba Boyz,,2.5,11,11501 Rock Rose Ave,11501 Rock Rose Ave Austin ,30.4006723,-97.7227287
+Texas,Austin,IBubbleTea,,2.5,8,609 Clayton Ln,609 Clayton Ln Austin ,30.3237172,-97.7135165
+Texas,Austin,Bliss,,2.5,2,201 E 21st St,201 E 21st St Austin ,30.2824868,-97.7363657
+Texas,Austin,Zero Degrees,,3,2,4211 S Lamar Blvd,4211 S Lamar Blvd Austin ,30.2331704,-97.7922745
+Florida,Jacksonville,Q-Cup Boba Tea,$,4.5,182,11380 Beach Blvd,11380 Beach Blvd Jacksonville ,30.2850948,-81.5269854
+Florida,Jacksonville,Poké Cafe,$$,4.5,197,14866 Old St Augustine Rd,14866 Old St Augustine Rd Jacksonville ,30.1404053,-81.5212839
+Florida,Jacksonville,Tsaocaa,$,4.5,98,10150 Beach Blvd,10150 Beach Blvd Jacksonville ,30.2860288,-81.5495128
+Florida,Jacksonville,Kung Fu Tea,$,4.5,136,12630 Beach Blvd,12630 Beach Blvd Jacksonville ,30.2867278,-81.4860867
+Florida,Jacksonville,Pho 99 Vietnamese Grill,$,4,142,5024 Blanding Blvd,5024 Blanding Blvd Jacksonville ,30.2515741,-81.7438542
+Florida,Jacksonville,Tbaar Cafe Oakleaf,$,4.5,70,9542 Argyle Forest Blvd,9542 Argyle Forest Blvd Jacksonville ,30.1944587,-81.8263215
+Florida,Jacksonville,OMG Cafe & Tea,$,4.5,62,12192 Beach Blvd,12192 Beach Blvd Jacksonville ,30.2865517,-81.4964152
+Florida,Jacksonville,Boba Blends,$,4.5,23,9501 Arlington Expy,9501 Arlington Expy Jacksonville ,30.3234161,-81.5510726
+Florida,Jacksonville,Tutem Tea,,5,13,1661 Riverside Ave,1661 Riverside Ave Jacksonville ,30.3122986,-81.680204
+Florida,Jacksonville,Mumuyi Bakery,,4.5,15,12041 Beach Blvd,12041 Beach Blvd Jacksonville ,30.2877199,-81.4992455
+Florida,Jacksonville,Treata Tea Shoppe,,4.5,13,11925 Beach Blvd,11925 Beach Blvd Jacksonville ,30.2879599,-81.5029333
+Florida,Jacksonville,Little Saigon Cafe,$,4,145,1975 Wells Rd,1975 Wells Rd Jacksonville ,30.187316,-81.7410546
+Florida,Jacksonville,Taste of Vietnam,$$,4,132,1910 Wells Rd,1910 Wells Rd Jacksonville ,30.1831879,-81.7387891
+Florida,Jacksonville,Natural Kitchen,$$,4,36,1910 Wells Rd,1910 Wells Rd Jacksonville ,30.1831879,-81.7387891
+Florida,Jacksonville,2Q,,2.5,3,500 Outlets Mall Blvd,500 Outlets Mall Blvd Jacksonville ,29.9261133,-81.4129073
+California,San Francisco,Boba Guys,$,4,1987,429 Stockton St,429 Stockton St San Francisco ,37.7900034,-122.4073009
+California,San Francisco,Belly Good Cafe & Crepes,$,4.5,1294,1737 Post St,1737 Post St San Francisco ,37.7852719,-122.4291175
+California,San Francisco,Matcha Cafe Maiko,$,4.5,962,1581 Webster St,1581 Webster St San Francisco ,37.7849969,-122.4318229
+California,San Francisco,Wonderful Dessert & Cafe,$,4,1266,2035 Irving St,2035 Irving St San Francisco ,37.7633039,-122.4799618
+California,San Francisco,Black Sugar,,4.5,805,320 O'Farrell St,320 O'Farrell St San Francisco ,37.7862619,-122.4101593
+California,San Francisco,Boba Guys,$,4,1469,3491 19th St,3491 19th St San Francisco ,37.759997,-122.4210986
+California,San Francisco,Urban Ritual,$,4.5,627,488 Fell St,488 Fell St San Francisco ,37.7757205,-122.4258658
+California,San Francisco,Plentea,$,3.5,1977,341 Kearny St,341 Kearny St San Francisco ,37.7913747,-122.4043892
+California,San Francisco,Teaspoon,$,4,563,2125 Polk St,2125 Polk St San Francisco ,37.7963054,-122.4221592
+California,San Francisco,Boba Guys,$,4,653,1522 Fillmore St,1522 Fillmore St San Francisco ,37.7836911,-122.4324859
+California,San Francisco,Ty Sandwich,$,4.5,422,4829 Mission St,4829 Mission St San Francisco ,37.7210175,-122.4373073
+California,San Francisco,Boba Guys,$,4,530,8 Octavia St,8 Octavia St San Francisco ,37.7726231,-122.4234103
+California,San Francisco,Purple Kow,$,3.5,2400,3620 Balboa St,3620 Balboa St San Francisco ,37.7758612,-122.4977786
+California,San Francisco,Little Sweet,$,4,648,3836 Geary Blvd,3836 Geary Blvd San Francisco ,37.7814126,-122.4606499
+California,San Francisco,Little Heaven,$,4.5,223,2348 Mission St,2348 Mission St San Francisco ,37.7594684,-122.4194361
+California,San Francisco,i-Tea,$,4,567,253 Kearny St,253 Kearny St San Francisco ,37.7905266,-122.4042567
+California,San Francisco,Asha Tea House,$,4,626,17 Kearny St,17 Kearny St San Francisco ,37.7881803,-122.4036958
+California,San Francisco,District Tea,$,4.5,180,2154 Mission St,2154 Mission St San Francisco ,37.7625055,-122.4196607
+California,San Francisco,Tpumps,$,3.5,1145,1916 Irving St,1916 Irving St San Francisco ,37.7637429,-122.4786111
+California,San Francisco,Tasty Pot,$$,4,471,815 Clement St,815 Clement St San Francisco ,37.7826165,-122.4680199
+California,San Francisco,BAMBU,$,4,586,6050 Geary Blvd,6050 Geary Blvd San Francisco ,37.7804197,-122.4845682
+California,San Francisco,Tea Hut,$,4,366,2815 California St,2815 California St San Francisco ,37.787879,-122.4407267
+California,San Francisco,Boba Guys,$,4,317,1002 16th St,1002 16th St San Francisco ,37.7665406,-122.397163
+California,San Francisco,Mr Szechuan,$$,4.5,269,890 Taraval St,890 Taraval St San Francisco ,37.7432541,-122.4754751
+California,San Francisco,Super Cue Cafe,$,3.5,624,1139 Taraval St,1139 Taraval St San Francisco ,37.7427963,-122.4785801
+California,San Francisco,Samovar - Valencia St.,$,4,392,411 Valencia St,411 Valencia St San Francisco ,37.7663137,-122.4218104
+California,San Francisco,Brew Cha,,4,304,3420 18th St,3420 18th St San Francisco ,37.7619676,-122.4200478
+California,San Francisco,Eggettes,$,3.5,568,3136 Noriega St,3136 Noriega St San Francisco ,37.7535019,-122.497485
+California,San Francisco,STEEP Creamery & Tea,$,4,282,270 Brannan St,270 Brannan St San Francisco ,37.7827679,-122.3913735
+California,San Francisco,b&b - Banh Mi & Boba,$,4,232,1634 Irving St,1634 Irving St San Francisco ,37.7638165,-122.4756979
+California,San Francisco,Matcha Cafe Maiko,,4.5,122,3251 20th Ave,3251 20th Ave San Francisco ,37.7278819,-122.4768754
+California,San Francisco,TJ Cups,$,4,291,2437 Noriega St,2437 Noriega St San Francisco ,37.7535036,-122.4900165
+California,San Francisco,QualiTea,$,4,201,4023 18th St,4023 18th St San Francisco ,37.760814,-122.4333314
+California,San Francisco,Mr. T Cafe,$,4,256,4689 Mission St,4689 Mission St San Francisco ,37.7232361,-122.4356041
+California,San Francisco,Mr East Kitchen,$$,4,204,276 Fifth St,276 Fifth St San Francisco ,37.7803962,-122.4038492
+California,San Francisco,i-Tea,$,3.5,478,2150 Irving St,2150 Irving St San Francisco ,37.7635243,-122.4811727
+California,San Francisco,Honey Creme,$,3.5,395,839 Irving St,839 Irving St San Francisco ,37.7638625,-122.4670802
+California,San Francisco,BB Tea Station,$,3.5,322,1314 Noriega St,1314 Noriega St San Francisco ,37.7543596,-122.4779024
+California,San Francisco,Sweetheart Cafe,$,3.5,445,909 Grant Ave,909 Grant Ave San Francisco ,37.7953322,-122.4066419
+California,San Francisco,Stix,$,4.5,147,1353 Taraval St,1353 Taraval St San Francisco ,37.7425987,-122.4809192
+California,San Francisco,Sharetea,$,3.5,492,135 4th St,135 4th St San Francisco ,37.7843318,-122.4033663
+California,San Francisco,Boba Guys,$,4.5,113,836 Divisadero St,836 Divisadero St San Francisco ,37.7774601,-122.4380152
+California,San Francisco,Foam Tea House,$,4,167,1745 Taraval St,1745 Taraval St San Francisco ,37.742462,-122.4850448
+California,San Francisco,Mr & Mrs Tea House,$,3.5,276,544 Clement St,544 Clement St San Francisco ,37.783173,-122.465245
+California,San Francisco,Identitea,$,4.5,113,3109 24th St,3109 24th St San Francisco ,37.7523868,-122.4144138
+California,San Francisco,Simple Tea House,$,4.5,98,2620 Ocean Ave,2620 Ocean Ave San Francisco ,37.7320203,-122.4734843
+California,San Francisco,SimplexiTea,,4.5,86,12 10th St,12 10th St San Francisco ,37.7759647,-122.4171064
+California,San Francisco,Good Earth Cafe,$,4.5,111,835 Kearny St,835 Kearny St San Francisco ,37.7958389,-122.4052125
+California,San Francisco,OMG Tea,$,4,171,2891 San Bruno Ave,2891 San Bruno Ave San Francisco ,37.7255553,-122.4025117
+California,San Francisco,Washington Bakery & Restaurant,$$,3.5,448,733 Washington St,733 Washington St San Francisco ,37.7950328,-122.4060592
+California,San Francisco,The Boba Shop,$,4.5,71,2071 3rd St,2071 3rd St San Francisco ,37.7635463,-122.3885842
+California,San Francisco,Sweethut,$,3.5,282,519 Clement St,519 Clement St San Francisco ,37.7827889,-122.4648499
+California,San Francisco,Yi Fang Taiwan Fruit Tea,$,4,170,870 Washington St,870 Washington St San Francisco ,37.7951235,-122.4076316
+California,San Francisco,PLATFORM 248,$,4,188,248 9th St,248 9th St San Francisco ,37.7741643,-122.4125752
+California,San Francisco,BobaBunni,$,4.5,77,402 Balboa St,402 Balboa St San Francisco ,37.7774282,-122.4631833
+California,San Francisco,My Cup of Tea,$,4,158,2666 Ocean Ave,2666 Ocean Ave San Francisco ,37.732408,-122.4742996
+California,San Francisco,Teapenter,$,4,111,1518 Irving St,1518 Irving St San Francisco ,37.763814,-122.4743456
+California,San Francisco,Wake Cup,$,5,29,1476 Haight St,1476 Haight St San Francisco ,37.7701539,-122.4467122
+California,San Francisco,Indulgence Tea Bar,$,4,188,1490 Ocean Ave,1490 Ocean Ave San Francisco ,37.7245784,-122.4578258
+California,San Francisco,Café Hana,$,3.5,213,1737 Post St,1737 Post St San Francisco ,37.7852719,-122.4291175
+California,San Francisco,Wondertea,$,4,111,2250 Irving St,2250 Irving St San Francisco ,37.7635639,-122.4823918
+California,San Francisco,Honey B Tea House,$,3.5,309,2201 Clement St,2201 Clement St San Francisco ,37.78186,-122.48289
+California,San Francisco,Yifang Taiwan Fruit Tea,$,3.5,262,3251 20th Ave,3251 20th Ave San Francisco ,37.7278819,-122.4768754
+California,San Francisco,Happy Lemon,,4.5,38,1320 4th St,1320 4th St San Francisco ,37.7715197,-122.3920344
+California,San Francisco,Tancca,$,3.5,149,776 Broadway,776 Broadway San Francisco ,37.7976449,-122.4099439
+California,San Francisco,Wok This Way,$$,4,134,560 Balboa St,560 Balboa St San Francisco ,37.7773835,-122.4648357
+California,San Francisco,E Tea,$,3.5,196,5344 Geary Blvd,5344 Geary Blvd San Francisco ,37.7806449,-122.4769401
+California,San Francisco,Gong Cha,,3.5,152,272 O'Farrell St,272 O'Farrell St San Francisco ,37.7864293,-122.409318
+California,San Francisco,Cuppa,$,3.5,155,2810 Diamond St,2810 Diamond St San Francisco ,37.7343001,-122.4341277
+California,San Francisco,World Wrapps,$$,4.5,43,2105 Chestnut St,2105 Chestnut St San Francisco ,37.8004316,-122.4381091
+California,San Francisco,Tea FM,$,3.5,156,3251 20th Ave,3251 20th Ave San Francisco ,37.7278819,-122.4768754
+California,San Francisco,Samovar - Fillmore St.,$$,4,72,1910 Fillmore St,1910 Fillmore St San Francisco ,37.7874251,-122.4333759
+California,San Francisco,Cool Tea Bar,$,3.5,153,103 Waverly Pl,103 Waverly Pl San Francisco ,37.7943089,-122.4069274
+California,San Francisco,CoCo Fresh Tea & Juice,$,3.5,126,652 Market St,652 Market St San Francisco ,37.7884422,-122.4027663
+California,San Francisco,Dim Sum Corner,$$,3.5,133,601 Grant Ave,601 Grant Ave San Francisco ,37.7925771,-122.4060725
+California,San Francisco,Little Sweet,$$,3.5,141,1253 9th Ave,1253 9th Ave San Francisco ,37.7649409,-122.46666
+California,San Francisco,Quickly - Kobe Bento,$,3.5,201,901 Kearny St,901 Kearny St San Francisco ,37.7962977,-122.4053575
+California,San Francisco,BOBA PINK,$$,4.5,41,1750 Cesar Chavez,1750 Cesar Chavez San Francisco ,37.750858,-122.394103
+California,San Francisco,Little Sweet,$,4,74,75 O'Farrell St,75 O'Farrell St San Francisco ,37.7865949,-122.4059295
+California,San Francisco,IZUMIYA,$$,4,52,1581 Webster St,1581 Webster St San Francisco ,37.7849969,-122.4318229
+California,San Francisco,1011 Sip Tea,,4,53,2127 Irving St,2127 Irving St San Francisco ,37.7632697,-122.4808802
+California,San Francisco,Happy Lemon,,5,24,99 Drumm St,99 Drumm St San Francisco ,37.7944202,-122.3968184
+California,San Francisco,Eightea,$,4,75,91 6th St,91 6th St San Francisco ,37.7812418,-122.4088295
+California,San Francisco,Teazo,$,4,84,1050 Taraval St,1050 Taraval St San Francisco ,37.7431389,-122.4776434
+California,San Francisco,Quickly,$,3,183,709 Larkin St,709 Larkin St San Francisco ,37.7844631,-122.4179234
+California,San Francisco,Steap Tea Bar,$,4.5,409,827 Sacramento St,827 Sacramento St San Francisco ,37.7932518,-122.4066108
+California,San Francisco,Morning Brew Coffee & Tea,$,3,183,401 Sansome St,401 Sansome St San Francisco ,37.7940672,-122.4014866
+California,San Francisco,Cherry Blossom Bakery,$,3.5,106,1552 Ocean Ave,1552 Ocean Ave San Francisco ,37.724757,-122.4590545
+California,San Francisco,FrosTea,$$,3,169,6178 Mission St,6178 Mission St San Francisco ,37.7069248,-122.4587324
+California,San Francisco,Happy Cow Creamery & Tea,$,4,44,2291 3rd St,2291 3rd St San Francisco ,37.7606985,-122.3883507
+California,San Francisco,E Tea,$,3,143,839 Kearny St,839 Kearny St San Francisco ,37.7958163,-122.4053576
+California,San Francisco,Quickly,$,2.5,417,2116 Irving St,2116 Irving St San Francisco ,37.7635394,-122.4807512
+California,San Francisco,5 Degree Tea House,$,3,154,2527 San Bruno Ave,2527 San Bruno Ave San Francisco ,37.7298656,-122.4042956
+California,San Francisco,Nameless Tea & Coffee,$,3.5,73,981 Geneva Ave,981 Geneva Ave San Francisco ,37.7159265,-122.4395121
+California,San Francisco,The Burrow,$,4.5,170,109 Visitacion,109 Visitacion San Francisco ,37.6834053,-122.4028464
+California,San Francisco,Ratchetivi-Teas by Arena,,4.5,17,2565 Mission St,2565 Mission St San Francisco ,37.7561179,-122.4183911
+California,San Francisco,VBowls,$$,3.5,61,1200 Vermont St,1200 Vermont St San Francisco ,37.7543104,-122.403694
+California,San Francisco,Boba Bao Bei,,4.5,16,2761 Mission St,2761 Mission St San Francisco ,37.7529546,-122.4182881
+California,San Francisco,Tea Plus,$,3,154,2541 San Bruno Ave,2541 San Bruno Ave San Francisco ,37.7297292,-122.4042473
+California,San Francisco,Xpresso Tea,$,3.5,43,6901 Geary Blvd,6901 Geary Blvd San Francisco ,37.7794791,-122.4934306
+California,San Francisco,Super Pan & E Tea,,4.5,24,2045 Irving St,2045 Irving St San Francisco ,37.7632569,-122.4800969
+California,San Francisco,Yu's Cafe,,4,30,57 Walter U Lum Pl,57 Walter U Lum Pl San Francisco ,37.7950194,-122.4059214
+California,San Francisco,Tasty Pot,$$,3.5,316,215 Lake Merced Blvd,215 Lake Merced Blvd San Francisco ,37.7292631,-122.4931101
+California,San Francisco,Bobaville,,4,326,346 Gellert Blvd,346 Gellert Blvd San Francisco ,37.6673529,-122.4692471
+California,San Francisco,Tea Hut,,3.5,49,1541 Sloat Blvd,1541 Sloat Blvd San Francisco ,37.73241,-122.4906324
+California,San Francisco,Sharetea,$,2.5,118,865 Market St,865 Market St San Francisco ,37.7840569,-122.4061984
+California,San Francisco,Hi Tea,$,3.5,51,2591 San Bruno Ave,2591 San Bruno Ave San Francisco ,37.7290727,-122.4039969
+California,San Francisco,Quickly,$,2,236,1039 Ocean Ave,1039 Ocean Ave San Francisco ,37.7231613,-122.4537788
+California,San Francisco,By Me Boba Tea,,4,17,22 Ross Aly,22 Ross Aly San Francisco ,37.7956172,-122.4072161
+California,San Francisco,Boba Butt Tea House,,3.5,287,714 Kearny St,714 Kearny St San Francisco ,37.7947683,-122.4047301
+California,San Francisco,Milk Tea Lab,$,4,172,630 El Camino Real,630 El Camino Real San Francisco ,37.7815121,-122.4204818
+California,San Francisco,Glazier,$,4,14,414 Sutter St,414 Sutter St San Francisco ,37.7896118,-122.4075048
+California,San Francisco,Metro Hong Kong Dessert,,3,46,928 Stockton St,928 Stockton St San Francisco ,37.794461,-122.4078324
+California,San Francisco,BeauTea,$,4,152,375 Grand Ave,375 Grand Ave San Francisco ,37.808579,-122.2548205
+California,San Francisco,Onyx,$,3.5,312,950 King Dr,950 King Dr San Francisco ,37.7665649,-122.4838607
+California,San Francisco,Yifang Taiwan Fruit Tea,$,3.5,112,4923 Junipero Serra Blvd,4923 Junipero Serra Blvd San Francisco ,37.6744067,-122.4656241
+California,San Francisco,Mura Tea Shoppe,,5,11,3109 24th St,3109 24th St San Francisco ,37.7523868,-122.4144138
+California,San Francisco,Meet Fresh,,3,391,148C Serramonte Ctr,148C Serramonte Ctr San Francisco ,37.6703259,-122.4736964
+California,San Francisco,Tea Square Boba,,4.5,11,900 North Point St,900 North Point St San Francisco ,37.8056739,-122.4223763
+California,San Francisco,Happy Lemon,$,4,65,3 Serramonte Ctr,3 Serramonte Ctr San Francisco ,37.6696031,-122.469413
+California,San Francisco,Coco3,,4.5,34,117 Hickey Blvd,117 Hickey Blvd San Francisco ,37.6513656,-122.4814411
+California,San Francisco,Mr. Green Bubble,,3,21,1330 Ocean Ave,1330 Ocean Ave San Francisco ,37.7242776,-122.4570186
+California,San Francisco,iNoodle,$,2.5,30,1650 Holloway Ave,1650 Holloway Ave San Francisco ,37.7224845,-122.478519
+California,San Francisco,Quickly - Daly City,$,2,312,175 Southgate Ave,175 Southgate Ave San Francisco ,37.6972199,-122.4837183
+California,San Francisco,Quickly,$,1.5,76,3251 20th Ave,3251 20th Ave San Francisco ,37.7278819,-122.4768754
+California,San Francisco,Quickly,$,2.5,24,1600 Holloway Ave,1600 Holloway Ave San Francisco ,37.7227669,-122.4767213
+California,San Francisco,Truedan,,4.5,19,79 Skyline Plz,79 Skyline Plz San Francisco ,37.7328493,-122.4977311
+California,San Francisco,Boba Gen,,5,2,260 5th St,260 5th St San Francisco ,37.7806685,-122.4041914
+California,San Francisco,Quickly,,4,1,2800 Leavenworth St,2800 Leavenworth St San Francisco ,37.8070413,-122.4187782
+California,San Francisco,Mr. Andrew Catering,,3,1,, San Francisco ,37.7749295,-122.4194155
+Indiana,Indianapolis,Wyliepalooza Ice Cream Emporium,$,4.5,194,5535 E Washington St,5535 E Washington St Indianapolis ,39.7706008,-86.0723925
+Indiana,Indianapolis,Moar Tea & Poke,,4.5,138,448 Massachusetts Ave,448 Massachusetts Ave Indianapolis ,39.7735675,-86.1514379
+Indiana,Indianapolis,Latea Bubble Tea Lounge,,4.5,94,530 Massachusetts Ave,530 Massachusetts Ave Indianapolis ,39.7748769,-86.1499074
+Indiana,Indianapolis,Tsaocaa,$,4.5,155,6386 E 82nd St,6386 E 82nd St Indianapolis ,39.9071254,-86.0584528
+Indiana,Indianapolis,Pho 21,$$,4.5,94,8134 E 21st St,8134 E 21st St Indianapolis ,39.7965957,-86.0240798
+Indiana,Indianapolis,Mori Sushi,,4.5,74,231 S College Ave,231 S College Ave Indianapolis ,39.7631934,-86.1454843
+Indiana,Indianapolis,Huong Sizzling Wok,$,4,95,4351 Lafayette Rd,4351 Lafayette Rd Indianapolis ,39.8338965,-86.2439925
+Indiana,Indianapolis,Youmi Crepes and Bubble Tea,$,3.5,102,823 Broad Ripple Ave,823 Broad Ripple Ave Indianapolis ,39.8695398,-86.1442318
+Indiana,Indianapolis,Yoya Self Service Frozen Yogurt and Bubble Tea,$,4,85,3520 W 86th St,3520 W 86th St Indianapolis ,39.9122074,-86.2210309
+Indiana,Indianapolis,HoiTea ToiTea,,3.5,26,8702 Keystone Crossing,8702 Keystone Crossing Indianapolis ,39.9146201,-86.11124
+Indiana,Indianapolis,Sweet Ice Indy,,3.5,3,6020 E 82nd St,6020 E 82nd St Indianapolis ,39.9092285,-86.0653862
+Ohio,Columbus,Kung Fu Tea,$,4.5,159,1161 Kenny Centre Mall,1161 Kenny Centre Mall Columbus ,40.0494718,-83.0517739
+Ohio,Columbus,Zen Cha Tea Salon,$$,4,270,982 N High St,982 N High St Columbus ,39.9823346,-83.0042375
+Ohio,Columbus,The Brewed Leaf,$,4.5,80,809 Bethel Rd,809 Bethel Rd Columbus ,40.0606249,-83.0416202
+Ohio,Columbus,Kung Fu Tea,$,4.5,67,7370 Sawmill Rd,7370 Sawmill Rd Columbus ,40.1162109,-83.0895679
+Ohio,Columbus,Vivi Bubble Tea,$,4.5,46,2408 N High St,2408 N High St Columbus ,40.0113418,-83.0099383
+Ohio,Columbus,Wali Dessert,$$,4,57,1440 Bethel Rd,1440 Bethel Rd Columbus ,40.0640605,-83.058014
+Ohio,Columbus,Sushi High,$$,4.5,34,1502 N High St,1502 N High St Columbus ,39.9930062,-83.006485
+Ohio,Columbus,Chatime,$$,4,44,2060 N High St,2060 N High St Columbus ,40.0045413,-83.0083266
+Ohio,Columbus,The Brewed Leaf,$,5,11,2060 N High St,2060 N High St Columbus ,40.0045413,-83.0083266
+Ohio,Columbus,LittleMoon Cafe and Tea,,4.5,13,2899 N High,2899 N High Columbus ,40.0213717,-83.0135194
+Ohio,Columbus,Bubbles Tea & Juice Company,$,3,79,59 Spruce St,59 Spruce St Columbus ,39.9718576,-83.0043273
+Ohio,Columbus,Freeze Style Ice Cream,$$,4.5,34,1731 W Lane Ave,1731 W Lane Ave Columbus ,40.0066952,-83.0563754
+Ohio,Columbus,Light Bulb Asian Cafe,$$,3.5,76,3110 Kingsdale Ctr,3110 Kingsdale Ctr Columbus ,40.0204277,-83.0595803
+Ohio,Columbus,Kung Fu Tea,,4,5,2202 North High St,2202 North High St Columbus ,40.0071823,-83.0092488
+Ohio,Columbus,Millions of Milk Tea,$,2.5,18,1990 N High St,1990 N High St Columbus ,40.002919,-83.0084322
+Ohio,Columbus,Bubbles The Tea & Juice Company,$,2,20,Easton Town Ctr,Easton Town Ctr Columbus ,40.0505153,-82.915308
+Ohio,Columbus,Bubbles Tea & Juice Company,$,2.5,6,661 N High St,661 N High St Columbus ,39.975959,-83.0035557
